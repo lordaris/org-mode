@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       709a0bcf-6d91-4d72-ae1f-ea642e466b85
+:END:
+#+title: Pseudocode
+

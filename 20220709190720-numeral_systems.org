@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       f25eb90a-47c5-43ec-a329-82c6c5da1147
+:END:
+#+title: Numeral systems
+
+[[id:f92fe7cd-de95-4496-bdec-a83f3c685343][Binary numbers]]
+[[id:bf194c82-0bb3-459b-b466-4a1aa7a4ede0][Hexadecimal numbers]]

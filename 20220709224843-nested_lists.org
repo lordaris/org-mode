@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6ee7fd65-8182-41b5-8e88-ced6d144deaa
+:END:
+#+title: Nested lists
+
+- Accessing elements of nested lists
+- Matrices
+- Nested list comprehension
+- 

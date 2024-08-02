@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       383430a9-7306-4dc8-87d0-4ac42a9b0cc0
+:END:
+#+title: List comprehension
+
+- List comprehension with if
+- 
+- 

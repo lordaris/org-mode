@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       656c31dc-45ec-42b5-8d6e-c7721702c616
+:END:
+#+title: User-defined exceptions
+

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       45e975ba-1891-4879-9957-03702e3842b5
+:END:
+#+title: Iterators and generators
+
+[[id:707c8c75-1532-4247-a018-32f9efa51ee6][Custom generators]]
+[[id:61cc4f65-e14b-4658-b0d1-9b58b6fd093a][Itertools module]]
+[[id:05d336e9-a6f7-4cda-8489-96661a2e9e10][Iterators]]

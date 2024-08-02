@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       de3d9c07-17bd-48ac-bda2-f70e91a5bf3c
+:END:
+#+title: Basics
+
+[[id:c9d40398-45e0-40d6-b436-db694bba8fec][Intro]]
+[[id:f4089e79-a0f7-4588-97f5-694970f96c87][Simple programs]]
+[[id:a4aa15fc-9b63-4976-95de-3e9cb102a088][Modules and packages]]
+[[id:9146064a-f9b3-4191-bc2a-240b972f9a44][Builtins]]

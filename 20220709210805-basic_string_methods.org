@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       62875bd8-938f-43f4-98d9-f95e102efd0b
+:END:
+#+title: Basic string methods
+

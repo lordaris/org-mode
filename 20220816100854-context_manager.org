@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       23d7181f-d6ff-4c81-a050-1cfcc9944cc4
+:END:
+#+title: Context manager
+

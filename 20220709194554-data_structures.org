@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       a03258e2-d196-4c60-9d43-a3fec299e000
+:END:
+#+title: Data structures
+
+[[id:ab3e687a-f309-45cc-b5da-6662b50d7570][Limited access data types]]

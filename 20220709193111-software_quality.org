@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       193ed79a-0707-4785-bfc8-a284e0714da5
+:END:
+#+title: Software quality
+
+[[id:6c8d35d9-3080-4eef-8ee0-38a6692c4ab1][Documentation]]
+[[id:9e3fd173-c14e-4f9b-ad7f-908430eac79f][What is a bug]]
+[[id:e1086c69-1b29-4996-a842-b35a71cc767f][Functional testing]]
+[[id:9f30ecc2-9002-4788-9c9e-c100f1ea0277][Unit testing]]
+[[id:b35c4ab8-0dd9-4def-8406-74004415d230][Introduction to logging]]

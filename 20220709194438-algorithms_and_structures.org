@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       f291bb12-4cab-4eb6-a63e-6a16481fe7f5
+:END:
+#+title: Algorithms and structures
+
+[[id:d361f5f8-5f86-4c38-98a6-5b7b2f79ccb7][Intro to algorithms and data structures]]
+[[id:a03258e2-d196-4c60-9d43-a3fec299e000][Data structures]]
+[[id:8270316a-1097-4e3e-a130-580e937058d7][Algorithms]]

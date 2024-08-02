@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       e60fa721-baa7-46dd-be59-bd6608d12c88
+:END:
+#+title: Frontend
+

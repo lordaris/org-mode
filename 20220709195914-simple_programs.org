@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       f4089e79-a0f7-4588-97f5-694970f96c87
+:END:
+#+title: Simple programs
+
+[[id:a5126a28-ebc7-4371-9a7e-8e4446611f95][Overview of the basic program]]
+[[id:0a284c0d-2db2-4f9a-9563-2e4adcfbf7ed][Multi-line programs]]
+[[id:83cd82b3-ea90-433c-a8ae-edba3dcb53a0][Taking input]]
+[[id:3425f054-1b24-4330-87fa-67d8e3458381][Program with numbers]]
+[[id:61f135b2-c630-45c4-b1ee-a9fac30f009b][Program execution]]

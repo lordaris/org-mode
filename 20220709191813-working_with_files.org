@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       34b28c96-0c77-4a10-9ace-f9f3f850020f
+:END:
+#+title: Working with files
+
+[[id:f78d7232-bb05-4cba-a4cb-403d8cd0982d][Glob module]]
+[[id:7f3a92e0-96bf-453f-ae69-61b028074517][The Shutil module]]
+[[id:9eca4a8d-ddc6-4303-b466-8600321343ca][Reading files]]
+[[id:dd76182f-f855-4301-833c-c1b8859b3311][Writing files]]
+[[id:1bdd4047-2927-45ca-b5e7-8dd92e0b25da][Working with CSV]]
+[[id:cd650161-526a-4b9d-a079-9d159d023f3d][Openpyxl]]
+[[id:b285e3da-c041-4e60-9933-63a33f0069c7][Files in Python]]
+[[id:1accbb1f-bd69-4e47-9545-d08018ae0d1f][Working with PDF in python]]
+[[id:23d7181f-d6ff-4c81-a050-1cfcc9944cc4][Context manager]]

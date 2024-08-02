@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       e8bb5a5c-cc10-4e0f-b448-eee820cebf7e
+:END:
+#+title: Preconditions and postconditions
+

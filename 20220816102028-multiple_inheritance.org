@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       4733772c-70e9-4cf3-85a0-50eec6bca3e3
+:END:
+#+title: Multiple inheritance
+

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       92c71f7f-454b-485b-88ed-6497e9afbeef
+:END:
+#+title: Python
+
+[[id:de3d9c07-17bd-48ac-bda2-f70e91a5bf3c][Basics]]
+[[id:830e0c3e-dc1d-4cab-adea-9984dbda4464][Code quality]]
+[[id:0d854233-c494-489c-aee8-54aedab718e0][Working with data]]
+[[id:1ebf899c-7199-4838-a196-bf6e002ecadb][Control flow]]
+[[id:a6d090cd-0fbb-4b28-8baa-059080554237][Object-oriented programming]]
+[[id:4d90815f-f555-439a-981b-94ce31bbeacd][Additional instruments]]
+[[id:15d70fe6-136e-4c92-bb3e-b807573e3feb][Python libraries]]

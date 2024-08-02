@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       fe9e2244-f6c7-4607-8cbb-bf7ad11c8d46
+:END:
+#+title: Boolean logic
+

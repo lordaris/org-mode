@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       bc7274b2-a6d7-41ff-968e-64c4f47927d4
+:END:
+#+title: archivo de prueba
+

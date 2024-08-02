@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       bcc639dc-9ed6-4fbb-a8c6-d54608eb4bbd
+:END:
+#+title: Collections
+
+[[id:9d0794cf-2545-46d0-b25b-4de6ccf11f66][Lists]]
+[[id:b0410a16-4319-436d-b72d-9ab16e40e3ca][Dictionaries]]
+[[id:b6c0e154-daca-482f-9b9b-ba20c2589a38][Sets]]
+[[id:855502f3-67a8-406b-9988-d7d728838077][Advanced Collections]]
+[[id:ab8daa74-6569-42b5-9dee-c523e4dfaa12][Tuples]]

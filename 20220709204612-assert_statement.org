@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       c2d6bd29-61b7-4e83-ac4e-8eb112a8d92f
+:END:
+#+title: Assert statement
+

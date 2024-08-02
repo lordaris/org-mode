@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       a5788b04-9c06-4949-834a-5afcaa19cb83
+:END:
+#+title: Experiments with Python shell
+

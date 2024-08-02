@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       61d5ef53-8774-4f54-a012-5148c45f32a6
+:END:
+#+title: Ecología económica
+
+Estudia relaciones entre recursos naturales y el sistema socioeconómico. Incluye conflictos entre crecimiento económico y límites biológicos y físicos en los ecosistemas.
+
+Se puede estudiar utilizando la [[id:19bb88dd-2ed8-47fe-b4d9-90997116617e][teoría de sistemas]] para comprender la dinámica y evolución de los problema y las crisis ambientales. 
+
+Reflexiona sobre el entorno institucional que favorezca a una gestión ambiental adecuada, mediante conceptos como el costo físico de reposición.

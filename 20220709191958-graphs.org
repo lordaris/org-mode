@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       14217e88-2c30-4788-ab85-f811e2da1c38
+:END:
+#+title: Graphs
+
+[[id:fa9dffb5-e87b-4677-a68f-a622497b9059][Graphs: basics]]
+[[id:547dac49-81b4-4c37-b4a4-f3090f6ef968][Graph types]]

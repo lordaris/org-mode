@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       21166f1e-46bb-45e0-92f8-4b9cc34b45b3
+:END:
+#+title: Classes
+
+[[id:b350c696-4264-4d2a-be0d-b5f7337feb22][Class instances]]
+[[id:21166f1e-46bb-45e0-92f8-4b9cc34b45b3][Classes]]
+[[id:4ea2bf54-3af5-4e60-8582-9b3901a82d9f][Class vs instance]]

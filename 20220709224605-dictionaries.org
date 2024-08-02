@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       b0410a16-4319-436d-b72d-9ab16e40e3ca
+:END:
+#+title: Dictionaries
+
+[[id:41022403-a836-4c12-811b-c5eff6c1ef61][Dictionary]]
+[[id:bb3b145a-b8e1-4569-b8ee-8b9cc0c1047b][Dictionary methods]]
+[[id:da6f0647-51f1-4df6-83fc-1edfdb65c3c5][Operations with dictionary]]

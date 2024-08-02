@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       76ee8170-2c02-4458-bc1e-560d9081fd7a
+:END:
+#+title: Object Oriented Program
+
+
+- Class: type of an object
+- field: state of an object
+- Method: Behavior of an object
+  Object: Individual instance of a class
+
+

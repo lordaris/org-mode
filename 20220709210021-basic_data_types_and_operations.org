@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       04800f0d-b9c1-4e99-abf8-c72a84476460
+:END:
+#+title: Basic data types and operations
+
+[[id:9e3996a1-3283-4efd-8057-f079840f8dff][Basic data types]]
+[[id:83a2d7d6-38cb-4497-894f-54071f9b75ee][Integer arithmetic]]
+[[id:135e148d-1e49-4dd6-8fd7-6a31e42a9993][Comparisons]]
+[[id:dcb5354b-5e37-47f5-be0a-22233d2ac4ae][Type casting]]

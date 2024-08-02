@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       61cc4f65-e14b-4658-b0d1-9b58b6fd093a
+:END:
+#+title: Itertools module
+

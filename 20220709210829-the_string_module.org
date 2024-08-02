@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       5e6d9c1a-79fe-48cf-9384-f2d3bae8852e
+:END:
+#+title: The string module
+

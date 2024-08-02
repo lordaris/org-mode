@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       ab3e687a-f309-45cc-b5da-6662b50d7570
+:END:
+#+title: Limited access data types
+
+[[id:14217e88-2c30-4788-ab85-f811e2da1c38][Graphs]]
+
+- Stack essentials
+- Stacks in real-life and programming
+- The efficiency of stacks
+  
+

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       dcb5354b-5e37-47f5-be0a-22233d2ac4ae
+:END:
+#+title: Type casting
+

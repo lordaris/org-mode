@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0ee33125-cacc-465a-89e4-b1c530d208fd
+:END:
+#+title: Principles and techniques
+[[id:9f4fcbe8-a3c1-4d44-8d58-23c8624dc2fe][Hashing]]
+[[id:0862ba93-bab0-4925-ad0c-b0d3afac341e][String algorithms]]

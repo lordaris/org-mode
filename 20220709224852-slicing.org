@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       b4336776-2b87-4218-a6e8-6baf7575e95e
+:END:
+#+title: Slicing
+
+- Getting sections of sequences
+- Forms of slicing
+- 

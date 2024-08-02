@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       93d40c51-f4c9-4645-9551-5b2bb1a6b9bf
+:END:
+#+title: Pycharm
+

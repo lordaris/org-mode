@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       beaea529-b363-4f9c-811f-aa169c862dcc
+:END:
+#+title: Command line
+
+[[id:a2b8b953-f70d-4e50-8e1f-e6de4069b8df][Basic principles]]
+[[id:34b28c96-0c77-4a10-9ace-f9f3f850020f][Working with files]]
+

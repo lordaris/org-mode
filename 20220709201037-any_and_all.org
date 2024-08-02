@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       2853d8af-0e32-4c09-9de2-f2b11599f95b
+:END:
+#+title: Any and all
+
+- Function any()
+- Function all()
+- Non-boolean values
+- Conditions

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       1ebf899c-7199-4838-a196-bf6e002ecadb
+:END:
+#+title: Control flow
+
+[[id:d0633c59-0140-4f78-91db-f808dafa9ed6][Functions]]
+[[id:04cc6dc7-bcc3-49dd-a916-45ca158fa9b2][Control flow statements]]
+[[id:45e975ba-1891-4879-9957-03702e3842b5][Iterators and generators]]

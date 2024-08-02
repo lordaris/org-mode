@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       aa9527b3-b749-4b1e-95d0-6fa7c41166ac
+:END:
+#+title: Methods and attributes
+

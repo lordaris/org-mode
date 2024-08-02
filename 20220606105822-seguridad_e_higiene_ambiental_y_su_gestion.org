@@ -1,0 +1,55 @@
+:PROPERTIES:
+:ID:       9a427825-4f2d-46ba-b4f2-bc22cb83a264
+:END:
+#+title:Seguridad e higiene ambiental y su gestión.
+#+AUTHOR: Jesús Armando Peña Lucero
+#+LATEX_HEADER: \affiliation{Universidad Abierta y a Distancia de México}
+#+LATEX_HEADER: \course{Asignatura: Seguridad e higiene ambiental}
+#+LATEX_HEADER: \professor{Docente: Edwin Adolfo Chable Dzib}
+#+LATEX_HEADER: \duedate{6-Junio-2022 }
+#+LATEX_CLASS: apa7
+#+LANGUAGE: es
+#+LATEX_CLASS_OPTIONS: [a4paper, 12, stu, floatsintext]
+#+LATEX_HEADER: \usepackage[backend=biber, style=apa]{biblatex}
+#+LATEX_HEADER: \addbibresource{referencias.bib}
+#+LATEX_HEADER: \shorttitle{}
+#+LATEX_HEADER: \usepackage[spanish]{babel}
+
+* Introducción
+#+ATTR_LATEX: :caption \caption{Seguridad e higiene}
+[[./imagen.jpg]]
+
+Las empresas no tienen ninguna clase de obligación de contar con certificaciones internacionales, como las ISO. No obstante, estas pueden obtener multiples beneficios al certificarse. Uno de ellos es la estandarización, pues con esta se pueden simplificar los procesos y se pueden repetir sin cambios significativos. Además, al tener estandares, se puede mantener la calidad de los productos y servicios, se cuenta con sistemas de seguridad bien elaborados, con un programa que se puede seguir en todo momento, además de que se pueden seguir modelos de trabajo.
+Otra ventaja es la mejora de la percepción de clientes e inversionistas, pues una empresa certificada de cierta manera demuestra que sigue la legislación y normatividad, y que se preocupa por la calidad de sus procesos y productos, del ambiente y de sus empleados.
+Una ventaja más es el reducir los costos, lo cuál sucede por distintas razones, como el hecho de que los procesos están estandarizados, por lo que se evita el despilfarro; los empleados se encuentran con buena salud, por lo que no representan costos a la empresa, y además puede aumentar la productividad de ellos.
+En el ámbito de seguridad e higiene industrial y ambiental existen distintos grupos de normas, entre las que destacan la ISO 14001 y la ISO 45001, de las que hablaré a continuación. Como veremos, estas a pesar de su caracter no obligatorio, representan ventajas a las empresas, por lo que quienes cuentan con ellas, las adquieren de forma voluntaria.
+
+Algunas empresas cuentan con múltiples certificaciones, como es el caso de "Construcciones Industriales Orozco S.A. de C.V.", que como veremos a continuación, cuenta con por lo menos 4 certificaciones, 3 de ellas son ISO y una es OSHAS. Esta empresa, por las actividades que realiza, representa una gran cantidad de riesgos para sus trabajadores, por lo que el tener certificaciones en sistemas de gestión de seguridad y salud ocupacional, puede ser algo muy bueno, como demuestro en este documento.
+
+
+* Desarrollo
+Construcciones Industriales Orozco, S.A. De C.V. (CIOSA) es una empresa dedicada a la construcción. Sus catalogo de servicios es amplio, e incluye los siguientes: diseño, ingenieria y construccion en general de obra civil, excavaciones, edificios verticales, auditorios, oficinas, terracerias y cimentacion; diseño, ingenieria, fabricacion, montaje y pintura de todo tipo de estructura metalica(ligera, mediana y pesadas) para naves, auditorios, puentes, edificios y equipos de proceso; diseño, ingenieria, fabricacion, montaje y pintura de tanques atmosfericos (api), tanques a presion (asme)  y equipos de proceso a presion con estampado asme; diseño, ingenieria y construccion de obra electro-mecanica, ductos y tuberías [[cite:&construccionesindustrialesorozcos.a.dec.v.Constructora]].
+
+
+Dicha constructora cuenta con diversas certificaciones [[cite:&grupoestrategicodeconsultoresEmpresasAuditadasCertificadas]]:
+- ISO 9001:2015: Sistemas de gestión de la calidad;
+- ISO 14001:2015: Sistemas de gestión ambiental;
+- OHSAS 18001:2007: Gestión de la seguridad y salud ocupacional ;
+- ISO 45001:2018: Sistemas de gestión de la seguridad y salud en el trabajo.
+
+Debido al tipo de actividad que realizan (construcción), donde existe una muy amplia diversidad de riesgos laborales y ambientales, el contar con dichas certificaciones representa ventajas tanto para la empresa como para los trabajadores.
+La certificación ISO 14001 busca reducir el impacto ambiental de las empresas, lo que puede crear beneficios en la misma al mejorar el uso de los recursos (por ejemplo, reduciendo el uso de materia prima y energía, o mejorando el manejo de desechos). Según la FAO, una limitación de esta certificación es que no hay requisitos específicos, y por tanto, el efecto depende del compromiso individual que asuma cada empresa  [[parencite:&foodandagricultureorganizationoftheunitednationsQueEsCertificacion]].
+
+La certificación ISO 14001 puede tener un efecto positivo en los clientes, pues mejora la percepción que tienen de la empresa, por lo que puede ayudar a mejorar las ventas. Además, podría representar para las entidades encargadas del cuidado ambiental, que la empresa certificada se encuentra siguiendo la legislación y normatividad en materia ambiental.
+
+Otra certificación importante es la ISO 45001 "Sistemas de gestión de la seguridad y salud en el trabajo" -que reemplaza la OSHAS 18001-, pues permite a la organización tener lugares de trabajo seguros y saludables, prevenir lesiones y deterioro de la salud relacionados con el trabajo  [[parencite:&internationalorganizationforstandardizationISO450012018]]. Las ventajas de implementar esta certificación, es reducir la siniestralidad y sus costes, garantizar un entorno de trabajo seguro a los empleados, disminuir el absentismo laboral, mejorar la productividad, mejorar la comunicación y participación de los empleados, mejor imágen de la empresa frente a accionistas e inversionistas y diferenciación contra la competencia.
+
+
+
+* Conclusión
+La diversidad de riesgos ambientales y laborales que ocurren en una empresa de construcción son tantos que una empresa con un catálogo tan amplio como la mencionada en este documento, solamente se podría beneficiar de la certificación, pues esta de cierta manera asegura que sus procesos son adecuados, y cuida tanto la calidad de sus servicios, cuenta con una adecuada gestión ambiental (muy importante en la construcción) y porsupuesto, se preocupa por la seguridad y salud de sus trabajadores, lo que en consecuencia reduce considerablemente sus costos en salud, y puede incluso mejorar la productividad.
+
+
+
+
+[[printbibliography:]]

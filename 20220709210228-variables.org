@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       eccb0528-6f64-4f95-a5ca-3110fcb9c4d2
+:END:
+#+title: Variables
+

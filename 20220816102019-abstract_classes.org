@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       c0373f93-5ae3-4d0e-bee6-ea619c4d4585
+:END:
+#+title: Abstract classes
+

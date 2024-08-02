@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       3790a74a-a2d3-421b-a219-3103ae1b9104
+:END:
+#+title: Math magic methods
+

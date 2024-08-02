@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       db5f0a99-ad4d-41ec-9ae1-77912a9af901
+:END:
+#+title: Code performance
+
+[[id:cff3ad39-e15e-4495-b9e8-fc96a7fc69a3][Intro to multithreading]]
+[[id:6930b45b-57cd-4bf8-88ff-dd0c5f4673c1][Python Global Interpreter Lock]]
+[[id:71647c81-08ed-4def-a4cb-de80a96d1071][Timeit module]]
+[[id:5e569ff0-5278-4bc3-a018-1406aa0a78fa][How to improve code performance]]
+[[id:6a8f8275-e734-4f89-8925-4447f9db3e6a][Profiling in Python]]

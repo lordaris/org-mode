@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       764f1a60-737e-49d1-a9c0-989f5cec5a46
+:END:
+#+title: Coding environments
+
+[[id:a5788b04-9c06-4949-834a-5afcaa19cb83][Experiments with Python shell]]
+[[id:e01e13db-4725-42b8-a829-61762f7ddd15][Google colab]]
+[[id:74738024-c8f2-4c78-8167-3e723a87379a][Virtual environment]]
+[[id:6449f144-16d0-4e5a-a505-89a0e1e6aa2d][The Jupyter Notebook]]
+[[id:0f63453a-25d5-45cd-b09e-a7a97a617819][Introduction to Python shell]]

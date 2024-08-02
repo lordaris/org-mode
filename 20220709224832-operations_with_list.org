@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       a66138fe-bcd6-48a3-8f34-34e51594f4d5
+:END:
+#+title: Operations with list
+
+- Adding one element
+- Adding several elements
+- Removing elements
+- Inserting elements at a specified position
+- Membership testing in a list
+- Searching specific elements
+- 

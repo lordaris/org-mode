@@ -1,0 +1,20 @@
+# Created 2022-06-16 jue 14:40
+#+title: Inheritance Python
+#+author: lordaris
+Classes can inherit methods or properties from other classes.
+It's purpose is to reuse code.
+There are child classes (subclasses or derived classes) and parent classes (base or superclasses)
+
+#+begin_src python
+    # inheritance syntax
+  class ChildClass(ParentClass):
+      #methods and attributes
+#+end_src
+
+by default, all classes have the class object as their parent. 
+
+#+begin_src python
+  class SomeClass(object):
+  # It's the same. 
+  class SomeClass: 
+#+end_src

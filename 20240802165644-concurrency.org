@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       671d6099-5d97-4d33-9028-432667c096f1
+:END:
+#+title: concurrency
+
+Ability of different parts or units of a program, algorithm or problem to be executed out-of-order or in partial order, without affecting the outcome.
+
+

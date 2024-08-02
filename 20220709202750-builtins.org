@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5c39cadf-4e45-438c-b972-03104df4ff9b
+:END:
+#+title: Builtins
+
+
+[[id:f28048d9-ad45-42b5-ac1a-9567bf2d5cce][Sep and end arguments of print]]
+[[id:4cce818b-357f-470d-a82c-ba6a1cac5a8b][Parallel iteration]]
+[[id:5a56634f-1035-4bc1-bf6f-342d51a866cb][Map and filter]]
+[[id:a63bdec3-44b7-48d7-8831-3288a02e8f37][Any and all]]
+[[id:fe69e549-e0ad-4039-914f-520cfa94eb59][Flush and file arguments of print]]

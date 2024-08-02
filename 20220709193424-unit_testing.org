@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       9f30ecc2-9002-4788-9c9e-c100f1ea0277
+:END:
+#+title: Unit testing
+
+- What is Unit Testing?
+- Steps to test a unit
+- Manual Vs Automated
+- Benefits
+- Example: Add two numbers

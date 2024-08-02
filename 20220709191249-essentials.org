@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       0093ec75-27f9-4586-9be0-9452229c8359
+:END:
+#+title: Essentials
+[[id:b610fc21-8559-4c9e-a771-2ff76e63894b][Programming concepts]]
+[[id:00187929-c566-4a78-8711-f7149d586c8d][Standards and formats]]
+[[id:f67c5161-ebcd-45b4-bff3-dbac3222a5d4][Operating systems]]
+[[id:b6ea350e-cd9b-4150-9e93-4f9b75f25c4c][Web technologies]]
+[[id:9217713f-967a-4bbc-8a38-c0417c073d0c][Software construction]]
+[[id:876553cf-c449-4e94-9793-3da4ae08852d][Programming techniques]]

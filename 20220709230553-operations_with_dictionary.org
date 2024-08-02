@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       da6f0647-51f1-4df6-83fc-1edfdb65c3c5
+:END:
+#+title: Operations with dictionary
+

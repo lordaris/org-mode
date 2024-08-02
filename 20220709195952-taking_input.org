@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       83cd82b3-ea90-433c-a8ae-edba3dcb53a0
+:END:
+#+title: Taking input
+
+- Reading input from a user
+- Clear messages

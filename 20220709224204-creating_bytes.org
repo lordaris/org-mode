@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       9fa93bac-b867-4f95-82e4-a2b8671e230c
+:END:
+#+title: Creating bytes
+
+- b prefix
+- bytes()
+- encode()
+- to_bytes()
+- decode()
+- from_bytes()
+  

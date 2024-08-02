@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       0f915af6-f0db-4d3d-96fa-18bc8bbd874f
+:END:
+#+title: Method overriding
+

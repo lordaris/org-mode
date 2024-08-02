@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       bb7a2cca-070d-4a23-80c5-56b6fb261653
+:END:
+#+title: Ordering and total order
+
+- Total order
+- Lexicographical order
+- Chronological order
+- Application of ordering
+ 

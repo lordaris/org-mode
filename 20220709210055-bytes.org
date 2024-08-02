@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       6e6b869d-5204-4c2c-ab28-fb416f79c75d
+:END:
+#+title: Bytes
+
+[[id:fea43c42-8479-4415-8df5-797a3cce4b8b][Bytes basics]]
+[[id:9fa93bac-b867-4f95-82e4-a2b8671e230c][Creating bytes]]

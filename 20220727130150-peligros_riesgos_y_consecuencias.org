@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       626f90c2-a7d8-468d-b94b-9442f3c4790b
+:END:
+#+title: Peligros, riesgos y consecuencias
+#+AUTHOR: Jesús Armando Peña Lucero
+#+LATEX_HEADER: \affiliation{Universidad Abierta y a Distancia de México}
+#+LATEX_HEADER: \course{Asignatura: Evaluación del riesgo laboral}
+#+LATEX_HEADER: \professor{Docente: Ena Laura Santamaria Alvarado}
+#+LATEX_HEADER: \usepackage[spanish]{babel}
+#+LATEX_HEADER: \duedate{27-Julio-2022}
+#+LATEX_CLASS: apa7
+#+LANGUAGE: es
+#+LATEX_CLASS_OPTIONS: [a4paper, 12, stu, floatsintext]
+#+LATEX_HEADER: \usepackage[backend=biber, style=apa]{biblatex}
+#+LATEX_HEADER: \addbibresource{referencias.bib}
+#+LATEX_HEADER: \shorttitle{}
+
+#+LATEX_HEADER: \usepackage{array}
+#+LATEX_HEADER: \usepackage{longtable}
+#+LATEX_HEADER: \usepackage{color}
+
+* Introducción
+El uso de los términos "peligro" y "riesgo" suele ser indistinto, como si fueran sinónimos o conceptos intercambiables. La realidad es que, aunque estos sí están relacionados, no significan lo mismo. La probabilidad de que un peligro resulte en un daño varía de poco probable a muy probable. El riesgo es la probabilidad de que un acto particular o la omisión de este pueda exponer una persona, propiedad o algo mas a un daño [[parencite:&DifferenceHazardRisk2021]].
+Un ejemplo donde se pueden distinguir ambos conceptos es el de resbalar en el suelo, donde resbalarse es el peligro, pero la probabilidad de que eso pase puede variar dependiendo de distintos factores. A dicha probabilidad de que ocurra ese evento se le conoce como riesgo. 
+En este documento se verá una tabla comparativa de distintas definiciones de ambos conceptos, además de mencionar los factores involucrados en grado de peligro o riesgo. 
+
+* Desarrollo
+
+Ver [[fig:figura1][Figura 1]]  [[parencite:&universidadabiertayadistanciademexicoProgramaAsignaturaEvaluacion]]
+#+CAPTION: Diferencia entre peligro y riesgo
+#+NAME:   fig:figura1
+[[./peligro y riesgo.png]]
+
+* Conclusión
+Como pudimos notar, son claras las diferencias entre los conceptos de "peligro" y "riesgo", y por lo tanto, no deben utilizarse indistintamente, a menos de que se traten en un ámbito donde no sea tan relevante su distinción.
+Es evidente además el hecho de que los peligros no se pueden cambiar, pero sí es posible disminuir o eliminar el riesgo de que ocurra un evento relacionado con los peligros, reduciendo alguno de los factores de riesgo mencionados en la tabla, eliminando el peligro o sustituyéndolo por uno que represente menores riesgos. 
+
+[[printbibliography:]]
+

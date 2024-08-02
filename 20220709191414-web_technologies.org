@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       b6ea350e-cd9b-4150-9e93-4f9b75f25c4c
+:END:
+#+title: Web technologies
+
+[[id:35e698bd-8ebc-4b8b-a3f2-392caf94111d][World Wide Web]]
+[[id:690c529f-9277-420b-a6ee-477c61c5095c][HyperText Transfer Protocol]]
+[[id:a89352b9-ed4d-456e-b2be-0765db45919c][HTTP URL]]
+[[id:0095f751-5b50-46d6-94ef-602e98ae7761][HTTP messages]]
+[[id:4a9e995a-03b4-49aa-965a-1521b2ee2f46][Domains]]

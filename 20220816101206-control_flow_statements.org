@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       04cc6dc7-bcc3-49dd-a916-45ca158fa9b2
+:END:
+#+title: Control flow statements
+
+[[id:bb2b79d7-dc31-4a48-a9c0-ede900076207][Else statement]]
+[[id:63f11958-eaab-4cbe-8b39-b28fdbfd4fee][While loop]]
+[[id:e720f320-5974-4414-8d4a-e973919c154b][If statement]]
+[[id:b6a632b3-535e-4493-8bba-1b08f5c3c8d6][For loop]]
+[[id:d38fa242-0d5d-4b6b-bf4a-42194b70ac71][Elif statement]]
+[[id:2fc77e35-9e98-4979-bba0-ed21f7fbdc59][Loop control statements]]

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       0f63453a-25d5-45cd-b09e-a7a97a617819
+:END:
+#+title: Introduction to Python shell
+

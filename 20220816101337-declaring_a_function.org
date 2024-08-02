@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       85e084b4-6437-47e8-a903-0ce6fe772f9f
+:END:
+#+title: Declaring a function
+

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       bb71dbf5-2ea0-4d1f-a18a-08768df57792
+:END:
+#+title: Split and join
+

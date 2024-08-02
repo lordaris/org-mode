@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b347a167-0fdd-4367-b6e2-0dd4ce88f4fc
+:END:
+#+title: Shorthands
+

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2a8af492-58a3-4548-aea4-20993ee2879f
+:END:
+#+title: Lambda functions
+

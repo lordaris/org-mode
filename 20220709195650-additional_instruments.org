@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       4d90815f-f555-439a-981b-94ce31bbeacd
+:END:
+#+title: Additional instruments
+
+[[id:764f1a60-737e-49d1-a9c0-989f5cec5a46][Coding environments]]
+[[id:5123a026-b2ac-4ab3-9bb7-2a8412785abf][Advanced tools]]
+[[id:cb8424aa-3cd9-49ac-95b0-fdb666284f32][Interaction with OS]]
+[[id:dfe8a0b5-5368-473b-8b75-7bc2033d84ae][Algorithms and data structures]]

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b441a557-a26c-45c8-9de6-a93f556728f7
+:END:
+#+title: Inheritance in Python
+

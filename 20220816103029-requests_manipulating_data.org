@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       1935bbe9-dba6-42af-9fdf-0ba7d6278429
+:END:
+#+title: Requests: manipulating data
+

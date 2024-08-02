@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d45d50cb-f8e9-4ad7-b155-4ba322f1c8ac
+:END:
+#+title: Institución
+
+Son organismos sociales donde interactúan las personas que emplean recursos humanos materiales y financieros, coadyuvan al desarrollo económico de una comunidad y a la solución de problemas legales, de seguridad, ambientales, etc... 

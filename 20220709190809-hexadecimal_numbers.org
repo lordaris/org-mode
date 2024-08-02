@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       bf194c82-0bb3-459b-b466-4a1aa7a4ede0
+:END:
+#+title: Hexadecimal numbers
+
+Why HEX-a-decimal?
+Hexadecimal digis
+Binary to HEX and vice versa
+Applications of HEX

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       ad5cb720-90e4-42d7-abc5-2848969a6759
+:END:
+#+title: Advanced usage
+
+[[id:efb257e6-c3e6-4791-9625-6a862641b64b][Function decorators]]
+[[id:a04a87f3-d3af-4d37-b98e-3ba2083ec8db][Function annotations]]
+[[id:fba3b0d0-8e1e-487a-8e06-6b8507b62eb6][Recursion in Python]]
+[[id:2a8af492-58a3-4548-aea4-20993ee2879f][Lambda functions]]
+[[id:c45bf2dd-3378-4414-a6ac-9ba518c21358][Functional decomposition]]

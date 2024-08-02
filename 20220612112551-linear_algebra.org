@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7a1d7b66-0fff-4738-a9d0-2b4f75443efa
+:END:
+#+title: Linear Algebra
+#+OPTIONS: tex:t
+
+Study of vecors and certain rules to manipulate them,.
+
+Vectors are special objects that can be added together and multiplied by scalars to produce another object of the same kind.
+
+1. Geometric vectors: directed segments which can be drawn. Two geometric vectors $\vec{x}$, $\vec{y}$ can be added, such that $\vec{x} + \vec{y} = \vec{z}$ is another geometric vector.
+   Interpreting vectors as geometric vectors enables us to use our intuitions about direction and magnitude to reason about mathematical operations.
+2. Polynomials are instanes of vectors. Very different from geometric vectors. Abstract concepts.
+3. Audio signals are vectors. Represented as series of numbers.
+4. Elements of $\mathbb{R}$
+
+
+
+[[https://mml-book.github.io/book/mml-book.pdf][Fuente]]
+
+
+ 

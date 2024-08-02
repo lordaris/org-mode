@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       ec3b2141-7b25-4531-97c1-440e47c8cc5e
+:END:
+#+title: Primer nodo
+
+
+
+#+LATEX_HEADER: \affiliation{Universidad Abierta y a Distancia de México}
+#+LATEX_HEADER: \course{Asignatura: }
+#+LATEX_HEADER: \professor{Docente:  }
+#+LATEX_HEADER: \duedate{ -  - }
+#+LATEX_CLASS: apa7
+#+LANGUAGE: es
+#+LATEX_HEADER: \usepackage[spanish]{babel}
+#+LATEX_CLASS_OPTIONS: [a4paper, 12, stu, floatsintext]
+#+LATEX_HEADER: \usepackage[backend=biber, style=apa]{biblatex}
+#+LATEX_HEADER: \addbibresource{referencias.bib}
+#+LATEX_HEADER: \shorttitle{}
+
+[[cite:&arellano_diaz_salud_2013]]
+
+
+
+
+[[printbibliography:]]
+
+oshas

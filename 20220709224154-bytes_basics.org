@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       fea43c42-8479-4415-8df5-797a3cce4b8b
+:END:
+#+title: Bytes basics
+
+- Functions chr() and ord()
+- String comparison

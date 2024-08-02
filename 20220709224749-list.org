@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       5c1f1c1d-0a33-4df6-9c64-4ad5f8119810
+:END:
+#+title: List
+
+- creating and printing list.
+- Features of lists
+- Lenght of a list-

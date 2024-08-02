@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       dfe8a0b5-5368-473b-8b75-7bc2033d84ae
+:END:
+#+title: Algorithms and data structures
+
+[[id:1ecb2efc-2b72-430b-bfca-a62f60d94d60][Algorithms in Python]]
+[[id:8145db9f-7e2a-4e00-ad6e-0aae638e4a9e][Stack in Python]]

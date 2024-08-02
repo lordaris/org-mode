@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       cb8424aa-3cd9-49ac-95b0-fdb666284f32
+:END:
+#+title: Interaction with OS
+
+[[id:e98ed912-46da-416f-8305-31e7843e1bd7][Command line arguments]]
+[[id:2f50d471-5377-4361-b220-6788c293a2ea][os module]]
+[[id:47a52d88-b3b8-4507-8833-23ab997c92c7][Argparse module]]

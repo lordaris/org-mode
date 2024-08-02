@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       c453494e-9965-4769-bba3-7e0e842b8997
+:END:
+#+title: Data Structures
+
+[[id:ab3e687a-f309-45cc-b5da-6662b50d7570][Limited access data types]]
+[[id:14217e88-2c30-4788-ab85-f811e2da1c38][Graphs]]
+[[id:8270316a-1097-4e3e-a130-580e937058d7][Algorithms]]

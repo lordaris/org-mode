@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       61f135b2-c630-45c4-b1ee-a9fac30f009b
+:END:
+#+title: Program execution
+
+- Interpretation
+- Interpreted or compiled?
+- Python Virtual Machine
+  
+

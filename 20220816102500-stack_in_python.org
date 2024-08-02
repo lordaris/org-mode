@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       8145db9f-7e2a-4e00-ad6e-0aae638e4a9e
+:END:
+#+title: Stack in Python
+

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4cce818b-357f-470d-a82c-ba6a1cac5a8b
+:END:
+#+title: Parallel iteration
+
+- The zip() function
+- Iterables with different lengths
+- zip() in loops
+- Parallel iteration with dictionaries
+- Unzipping

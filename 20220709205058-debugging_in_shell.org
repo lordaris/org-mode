@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       3f1605d5-35bf-4d82-9904-600c25b70b15
+:END:
+#+title: Debugging in shell
+

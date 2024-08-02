@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       9e3fd173-c14e-4f9b-ad7f-908430eac79f
+:END:
+#+title: What is a bug
+
+Bug etymology
+Why do programs have bugs?
+Avoiding bugs
+Debugging
+

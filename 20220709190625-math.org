@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       f059615e-f040-48c8-9f51-01b87d4596d6
+:END:
+#+title: Math
+
+[[id:f25eb90a-47c5-43ec-a329-82c6c5da1147][Numeral systems]]
+
+[[id:0be8c624-501b-4c22-be2c-17bbb71f3f7e][Math functions]]
+[[id:3ba3b2bc-297c-414c-98da-55265f9ab98a][Random module]]

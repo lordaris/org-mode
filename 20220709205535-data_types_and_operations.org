@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       db8a2c4b-aeaf-44d4-a849-1255dd4efa5a
+:END:
+#+title: Data types and operations
+
+[[id:04800f0d-b9c1-4e99-abf8-c72a84476460][Basic data types and operations]]
+[[id:6f374eed-a4de-497e-8bf3-8746b65b83bc][Objects in Python]]
+[[id:ddba8ea1-ad6c-4e8f-bbd1-e0458b08782f][Boolean]]
+[[id:058e1499-78ed-4a39-8be6-36f9303f2188][Strings]]
+[[id:6e6b869d-5204-4c2c-ab28-fb416f79c75d][Bytes]]

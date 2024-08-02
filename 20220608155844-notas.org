@@ -1,0 +1,152 @@
+:PROPERTIES:
+:ID:       cb58749b-c912-4c6b-8759-7d91347e7d50
+:END:
+#+title: El pronóstico de la gestión ambiental 
+#+AUTHOR: Jesús Armando Peña Lucero
+#+LATEX_HEADER: \affiliation{Universidad Abierta y a Distancia de México}
+#+LATEX_HEADER: \course{Asignatura: Gestión Ambiental}
+#+LATEX_HEADER: \professor{Docente:  Carlos Mauricio Calderilla Jaime}
+#+LATEX_HEADER: \duedate{ 09-Junio-2022 }
+#+LATEX_CLASS: apa7
+#+LANGUAGE: es
+#+LATEX_CLASS_OPTIONS: [a4paper, 12, stu, floatsintext]
+#+LATEX_HEADER: \usepackage[backend=biber, style=apa]{biblatex}
+#+LATEX_HEADER: \addbibresource{referencias.bib}
+#+LATEX_HEADER: \shorttitle{}
+#+LATEX_HEADER: \usepackage[spanish]{babel}
+#+LATEX_HEADER:  \usepackage{array}
+#+LATEX_HEADER: \usepackage{longtable}
+
+
+
+# Para ordenar
+
+* Introducción 
+
+Las plantas necesitan nutrientes, algunos en mayor cantidad que otros. Los de mayor cantidad se conocen como "macronutrientes", mientras que los que se utilizan en menor medida se conocen como "micronutrientes".
+Los macronutrientes son el nitrógeno, fósforo y potasio. 
+- Nitrógeno: Es esencial para el desarrollo de las plantas, ya que juega un papel fundamental en el metabolismo de energía y la síntesis de proteínas. El nitrógeno se absorbe en forma de nitratos. Es indispensable para la fotosíntesis y la formación de clorofila, promueve la multiplicación celular. 
+- Fósforo: Tiene que ver con el desarrollo de las raíces. Favorece la floración; se relaciona con el transporte y almacenamiento de energía; mejora el estado general de las plantas y mejora la habilidad de las plantas para soportar condiciones climatológicas adversas. Es esencial para la correcta ejecución de la fotosíntesis.  
+- Potasio: Se emplea en la regulación del agua y el transporte de sustancias de reserva de las plantas. Aumenta la capacidad de fotosíntesis, fortalece el tejido celular y activa la absorción de nitratos. Estimula la floración, la síntesis de carbohidratos y enzimas [[parencite:&agqlabsusaMacronutrientsPlants2019]]. 
+
+A pesar de que el nitrógeno ocupa el 78% del aire seco [[parencite:&agenciaeuropeademedioambienteCadaVezQue]], las plantas no pueden utilizarlo directamente en su estado gaseoso, por lo que este debe encontrarse en forma de algún compuesto nitrogenado como nitritos o amoniaco. El nitrógeno requiere condiciones especiales para poder fijarse en el suelo ya que es muy volátil. Algunas de estas condiciones son la necesidad de rayos, bacterias o plantas como las leguminosas, que tienen la capacidad de fijar el nitrógeno del aire en el suelo [[parencite:escalanteAgriculturaMundialCuerda,herbolariodelauniversidadpublicadenavarraCicloNitrogeno]].   
+
+Antes de la utilización de fertilizantes inorgánicos se empleaban abonos o compost, o guano. No obstante, esto representaba distintos problemas como que se extraía más de lo que se podía reponer [[parencite:&escalanteAgriculturaMundialCuerda]].
+
+A principios del siglo XX, los químicos alemanes Fritz Haber y Carl Bosch desarrollaron un método para tomar nitrógeno del aire y fusionarlo con hidrógeno. Éste fue uno de los grandes avances científicos del siglo [[parencite:&unepFertilizantesDesafiosSoluciones2020]].
+
+Lo anterior trajo ventajas en la producción agrícola, pues aumentan el rendimiento y calidad de los cultivos y por lo tanto requieren menor área de cultivo [[parencite:&unepFertilizantesDesafiosSoluciones2020]].
+
+Sin embargo, el uso extendido y excesivo de los fertilizantes inorgánicos tiene distintas consecuencias para el ambiente, pues este afecta los cuerpos de agua al proveer exceso de nutrientes, lo que produce un fenómeno llamado eutrofización, que causa que plantas y fitoplancton se desarrollen en abundancia, consumiendo gran cantidad de oxígeno y no permitiendo que se disuelva más oxígeno en los cuerpos de agua, lo que genera "zonas muertas", o zonas donde ya no es posible la vida por falta de oxígeno, además de que afecta la calidad del agua al producir descomposición anaerobia, que aparte de producir malos olores, puede propiciar el desarrollo de bacterias que producen toxinas que pueden ser letales [[parencite:&iaguaEutrofizacionCausasConsecuencias2018]]. 
+
+Otro efecto negativo es la generación excesiva de gases de efecto invernadero por la volatilización del nitrógeno , que produce óxidos de nitrógeno [[parencite:&unepFertilizantesDesafiosSoluciones2020]], lo que a su vez puede convertirse por contacto con el agua en ácido nítrico.  
+
+También arriesga la salud humana, pues se pueden crear partículas peligrosas que pueden empeorar enfermedades respiratorias. 
+
+En el suelo, las afectaciones por el uso de fertilizantes son el cambio de pH, el deterioro de su estructura y de la microfauna [[parencite:&gonzalezulibarryConsecuenciasAmbientalesAplicacion2019]]. 
+
+* Desarrollo
+** Justificación
+Como se mencionó, el uso de fertilizantes tiene distintos efectos negativos en el medio, por lo que es importante conocer el estado actual de este, y con base en esa información, saber si es necesario tomar medidas para reducir el uso de fertilizantes o implementar algún método de remediación de cualquiera de los medios afectados (aire, agua o suelo). 
+** Objetivo
+Conocer el estado del aire, agua y suelo de una zona agrícola del municipio de Cuauhtémoc, en el Estado de Chihuahua. Verificar el manejo adecuado de fertilizantes por parte de los agricultores, con base a la normatividad aplicable.
+
+** Diagnóstico ambiental
+El municipio de Cuauhtémoc se encuentra en la latitud norte 28º 25"; longitud oeste 106º 52"; altitud de 2060 metros sobre nivel del mar.
+Tiene una superficie de 3614.07km2
+
+Su agua superficial se encuentra en las lagunas: de Bustillos, del Pájaro, de los Mexicanos y Los Nogales; en las presas: La Quemada, Napavechi, Del Burro, El Picacho, Tres Lagunitas, Seis de Enero, Cuauhtémoc, Barraganes y Táscate del Águila.
+
+
+Su agua superficial se encuentra en las lagunas: de Bustillos, del Pájaro, de los Mexicanos y Los Nogales; en las presas: La Quemada, Napavechi, Del Burro, El Picacho, Tres Lagunitas, Seis de Enero, Cuauh, Barraganes y Táscate del Águila.
+
+Su clima es de transición de semihúmedo a templado, con temperatura media anual de 14ºC y mínima de -14.6ºC. Su precipitación pluvial media anual es de 439 milímetros, con un promedio anual de 66 días de lluvia.
+
+Su vegetación consta de pastos: zacates, navajita, pata de gallo, popotillo del pinar, de agua, burrero, borreguero, toboso, jiguito, banderilla y tres barbas; cactáceas: nopal, cardenche, choya, biznaga, maguey y sotol; arbustivas: gatuño, largoncillo, ocotillo, manzanilla y jarilla: herbáceas: frijolillo, hierba de la piedra, yerbaniz, gordolobo, chuchupate, soco (amole), juve, quelite, cola de zorra, talayote y orégano.
+
+Las regiones norte, noroeste y suroeste de Cuauhtémoc, se encuentran ocupadas por bosques de pino-encino y encino. En la región sur se localizan pequeñas áreas aisladas dominadas por táscate, el cual generalmente se presenta acompañado por diversas especies de pastos
+
+Sus principales tipos de suelo son los feozem, planosol, litosol, cambisol y regosol.
+
+El uso predominante del suelo es en agricultura y ganadería [[parencite:&institutonacionalparaelfederalismoyeldesarrollomunicipalChihuahuaCuauhtemoc]].
+
+
+** Plan de trabajo
+1. Visitar una zona agrícola en el municipio de Cuauhtémoc.
+2. Verificar que los agricultores cuenten con equipo de protección personal adecuado para el manejo de fertilizantes, y que conozcan los cuidados apropiados en caso de algún tipo de exposición ante estos compuestos.
+3. Verificar el correcto almacenamiento de los fertilizantes.
+4. Hacer una revisión visual del suelo y cuerpos de agua cercanos en busca de anomalías como colores extraños, salinidad, aromas ofensivos o desagradables, crecimiento desmedido de vegetación en el agua, muerte de especies animales, etc. 
+
+
+** Posibles resultados
+Debido al desconocimiento de la legislación relacionada con el uso de insumos fitosanitarios, plaguicidas e insumos de nutrición vegetal, es bastante probable que el manejo de estos se realice sin las precauciones adecuadas respecto a la higiene. En relación con la seguridad e higiene ambiental, también es posible que no se tenga el cuidado apropiado, por lo que es muy probable que exista un daño notable al medio ambiente, como pH en el suelo y agua alterado, mala estructura del suelo, contaminación de los cuerpos de agua, eutrofización, etcétera.
+
+Esta información puede servir para desarrollar una legislación y normatividad más adecuada, que especifique maneras más eficientes de fertilización, con riesgo menor de lixiviación y volatilización, y sin afectar la estructura o pH del suelo (las cuales ya existen). Actualmente la legislación, específicamente la ley de desarrollo rural sustentable, no menciona en ningún momento a los fertilizantes, por lo que, aunque estos implican un riesgo contra la sustentabilidad, no se les considera.
+
+
+
+** Instituciones involucradas
+
+Las instituciones involucradas más relacionadas con la problemática son:
+- Secretaría de Agricultura y Desarrollo Rural
+- SEMARNAT
+- Secretaría de Desarrollo Urbano y Ecología (Dependencia estatal)
+- Instituto Nacional de Ecología y Cambio Climático
+- Comisión Nacional del Agua
+
+
+\begin{longtable}{>{\hspace{0pt}}m{0.3\linewidth}>{\hspace{0pt}}m{0.7\linewidth}}
+\caption{Normatividad aplicable}\\
+\textbf{Norma}       & \textbf{Descripción}                                                                                                                                               \endfirsthead
+NMX-AA-24-1984       &  protección al ambiente  Contaminación Del Suelo  Residuos
+sólidos municipales  Determinación De Nitrógeno TOTAL                                                 \\
+NOM-021-RECNAT-2000  & Especificaciones de fertilidad, salinidad y clasificación de suelos. Estudios, muestreo y análisis.~                                                               \\
+NOM-060-ECOL-1994    & Especificaciones para mitigar los efectos adversos ocasionados en los suelos y cuerpos de agua por el aprovechamiento forestal.~                                   \\
+NOM-062-ECOL-1994    & Especificaciones para mitigar los efectos adversos sobre la biodiversidad que se ocasionan por el cambio de uso de suelo de terrenos forestales a agropecuarios.~  \\
+NOM-001-ECOL-1996    & Límites máximos permisibles de contaminantes en las descargas de aguas residuales en aguas y bienes nacionales.~~                                                  \\
+NMX-AA-026-SCFI-2010 & análisis de agua  Medición De Nitrógeno Total
+Kjeldahl En Aguas Naturales, Residuales Y
+Residuales Tratadas  Método De Prueba                                   \\
+NOM-182-SSA1-2010    & Etiquetado de nutrientes vegetales.                                                                                                                                \\
+                     &                                                                                                                                                                   
+\end{longtable}
+
+** ISO 14000
+
+Las ISO 14000 son normas internacionales referentes a la gestión ambiental de las organizaciones. Promueven la estandarización de los modelos de producción, de los servicios, la protección al medio ambiente y la reducción del impacto ambiental de las organizaciones [[parencite:&becerraSistemaGestionAmbiental2015]]. Dichas normas son de carácter voluntario, y la identificación de las áreas de oportunidad corren por parte de la organización (con apoyo de un consultor), por lo que su implementación en el sector agrícola es totalmente posible y razonable, ya que se sabe que los fertilizantes tienen impacto negativo en el medio ambiente, y que es posible controlar dichos impactos al reducir su uso y emplear otros métodos que permitan reducir la volatilización y la lixiviación de los componentes en los fertilizantes, además de mejorar las características del suelo.
+
+La aplicación de esta certificación implica la mejora en otras áreas de oportunidad, sin embargo, me limitaré a hablar sobre el uso de fertilizantes, por ser el alcance propio de este documento. Hay que recordar que las ISO se basan en el modelo PHVA "planear, hacer, verificar y actuar", donde la última se refiere a la mejora continua.
+
+En la etapa de planeación es importante caracterizar los contaminantes presentes en los distintos medios para encontrar medidas correctivas. Por ejemplo, si se encuentra que hay exceso de nitrógeno en el suelo, es posible que en la etapa de acción se considere el uso de fertilizantes separados para no emplear compuestos de nitrógeno.
+Hay que establecer metas medibles, como una proporción adecuada de macronutrientes en el suelo o que los contaminantes en el agua estén dentro de los límites máximos permisibles.
+
+En la etapa de ejecución (hacer), es necesario capacitar a los trabajadores (en caso de haberlos), para utilizar las cantidades adecuadas de fertilizantes inorgánicos, y alternarlos con fertilizantes orgánicos siempre que sea necesario.
+
+En la etapa de verificación, sería adecuado realizar caracterizaciones anuales del suelo y agua de las zonas donde se aplica el fertilizante y áreas cercanas. 
+
+En la actuación se ajustarán las cantidades de fertilizante a utilizar, aplicando únicamente lo necesario. Se pueden evaluar distintos métodos de fertilización orgánicos e inorgánicos, y sistemas de siembra que permitan un mayor aprovechamiento de los nutrientes, como la agricultura sin labranza o "no-till farming". 
+
+
+* Conclusión 
+
+Desafortunadamente no existe una gestión adecuada respecto al empleo de fertilizantes en la agricultura, lo cual propicia los efectos negativos que tienen estos compuestos en el ambiente.
+
+La legislación y normatividad no se refiere tanto a los problemas ambientales causados por los fertilizantes, sino a la calidad de los mismos y algunas formas de caracterización. 
+
+Considero importante que los distintos niveles de gobierno prioricen la educación de los agricultores con respecto al uso de fertilizantes (y otros agroquímicos), pues aunque estos son casi imposibles de reemplazar, y su uso representa una gama amplia de ventajas para la producción agrícola, sus efectos negativos son igual de amplios, y estos pueden afectar incluso directamente a los agricultores, al destruir la productividad del suelo.
+Se conocen distintos métodos de cultivo donde pueden alternarse fertilizantes orgánicos e inorgánicos para mantener la estructura del suelo, su pH y su microbioma, por lo que la legislación y normatividad podría promover el empleo de estos métodos.
+
+La certificación en normas internacionales como las ISO 14000 pueden presentar distintas ventajas, tanto a los agricultores como al medio ambiente. Algunas de estas ventajas pueden ser económicas, pues según el modelo propuesto, al tener una correcta caracterización de los suelos, es posible ahorrar en el uso de fertilizantes. Ambientalmente, el empleo de técnicas de siembra y fertilización alternativas puede no solo impedir la degradación del suelo y la contaminación del aire y agua, sino mejorarlos, al reducir la salinización del suelo, mejorar su estructura, proveer un microbioma saludable, donde las bacterias empleen el exceso de nutrientes en sus funciones orgánicas; y reducir la volatilización de nitrógeno y otros compuestos como el azufre. 
+
+
+# Elegir la metodología o instrumento para identificar el impacto ambiental de su problemática, justificar su elección y aplicar la metodología.
+# Colocar los indicadores aplicables a su problemática.
+# Realizar un plan de acción ambiental, como el realizado en la actividad 2 de esta unidad y el ejemplo del contenido en la página 31 de la Unidad 3.
+# Actualizar la conclusión e incluir lo trabajado en esta evidencia de aprendizaje
+
+
+[[printbibliography:]]
+
+
+
+

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       547dac49-81b4-4c37-b4a4-f3090f6ef968
+:END:
+#+title: Graph types
+
+[[id:9d7c9c12-fcee-479d-ae22-7f1ab19fe955][Tree]]

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       ceb477c6-94b8-451b-8d52-d8e42e6f45c1
+:END:
+#+title: HTML page structure
+

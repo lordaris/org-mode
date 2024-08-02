@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1b9e2024-4b51-4153-99a9-be9a45c278fc
+:END:
+#+title: Algorithms and structures
+
+[[id:d361f5f8-5f86-4c38-98a6-5b7b2f79ccb7][Intro to algorithms and data structures]]

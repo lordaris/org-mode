@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       842e87b6-8d0c-4a22-ab9c-834ef89673d0
+:END:
+#+title: NLP
+
+[[id:542233ff-0449-4c68-aaa3-aea36c8d3150][Libraries]]
+[[id:d304e8e7-dc51-40ee-8bc5-7d34dd26679a][Text processing]]

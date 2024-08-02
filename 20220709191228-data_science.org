@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       98d370d0-d8e7-484c-b63d-7f8a4480ce1b
+:END:
+#+title: Data science
+
+[[id:842e87b6-8d0c-4a22-ab9c-834ef89673d0][NLP]]

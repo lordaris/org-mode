@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       9217713f-967a-4bbc-8a38-c0417c073d0c
+:END:
+#+title: Software construction
+
+[[id:193ed79a-0707-4785-bfc8-a284e0714da5][Software quality]]

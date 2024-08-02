@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       41022403-a836-4c12-811b-c5eff6c1ef61
+:END:
+#+title: Dictionary
+
+- Dictionary creation
+- Accessing the items
+- Choosing the keys
+- 

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       6930b45b-57cd-4bf8-88ff-dd0c5f4673c1
+:END:
+#+title: Python Global Interpreter Lock
+

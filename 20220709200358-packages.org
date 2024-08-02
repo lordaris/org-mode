@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b94351d8-4250-42f5-bcf8-5a28e0e56756
+:END:
+#+title: Packages
+
+- Package definition and structure
+- Importing and referencing packages
+- Import * from ...: advantages and disadvantages
+- Intra package references
+- PEP Time!
+

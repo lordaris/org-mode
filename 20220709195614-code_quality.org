@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       830e0c3e-dc1d-4cab-adea-9984dbda4464
+:END:
+#+title: Code quality
+
+[[id:2bb23aed-3e33-4444-a766-54914385157f][Code style]]
+[[id:bfaf786a-de7a-4518-8f1e-41ee4677b41d][Errors and exceptions]]
+[[id:bd5d68de-b312-44d4-a35a-75defdeb266e][Testing and debugging]]
+[[id:db5f0a99-ad4d-41ec-9ae1-77912a9af901][Code performance]]

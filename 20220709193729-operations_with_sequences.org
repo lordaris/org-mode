@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       5f90c827-4e05-4e2f-ad19-6e896f4a0781
+:END:
+#+title: Operations with sequences
+
+[[id:bb7a2cca-070d-4a23-80c5-56b6fb261653][Ordering and total order]]

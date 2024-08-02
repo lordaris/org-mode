@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       828b52fb-7027-4d45-a70a-8153423bdcc6
+:END:
+#+title: Regexps basics
+
+- Why regular expressions?
+- Matching on examples: more PARKs
+- The power of regular expressions
+- The dot character
+- The question mark
+

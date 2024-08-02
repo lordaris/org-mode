@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b6a632b3-535e-4493-8bba-1b08f5c3c8d6
+:END:
+#+title: For loop
+

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       0be8c624-501b-4c22-be2c-17bbb71f3f7e
+:END:
+#+title: Math functions
+

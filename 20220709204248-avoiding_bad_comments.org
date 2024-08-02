@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       0ee1cb1a-c458-488c-85bc-9e150aba5a5d
+:END:
+#+title: Avoiding bad comments
+

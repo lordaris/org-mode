@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       bd5d68de-b312-44d4-a35a-75defdeb266e
+:END:
+#+title: Testing and debugging
+
+[[id:ccbf5b8f-f4d0-43ef-862f-11f359ffec31][How to read a traceback]]
+[[id:08e422a5-ed62-4cf7-8981-82b9991a04e9][Testing user input]]
+[[id:c2d6bd29-61b7-4e83-ac4e-8eb112a8d92f][Assert statement]]
+[[id:3f1605d5-35bf-4d82-9904-600c25b70b15][Debugging in shell]]
+[[id:d27d7192-7954-48c0-bb0a-e399f25a4f63][Unit testing in Python]]
+[[id:1a5c2b18-f34d-4462-bb70-2d5f7f39da57][Unittest in more detail]]
+[[id:09beaaca-a2fc-434a-a6c0-1e090496148b][Logging]]

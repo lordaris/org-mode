@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       4ea2bf54-3af5-4e60-8582-9b3901a82d9f
+:END:
+#+title: Class vs instance
+

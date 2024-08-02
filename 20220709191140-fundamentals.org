@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       4913f9b8-8714-476a-bdfe-84859530b00a
+:END:
+#+title: Fundamentals
+
+[[id:0093ec75-27f9-4586-9be0-9452229c8359][Essentials]]
+[[id:b65bc590-3ea3-450b-92ba-5f631664bc00][Dev tools]]
+
+

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       e652ff0b-5b52-42c6-95af-a1f928c12957
+:END:
+#+title: BeautifulSoup: working with XML
+

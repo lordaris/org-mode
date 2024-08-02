@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       058e1499-78ed-4a39-8be6-36f9303f2188
+:END:
+#+title: Strings
+
+
+[[id:95c3a397-c902-47f2-868e-832987ddda60][Quotes and multi-line strings]]
+[[id:6bd734f9-f2c6-4012-a11e-f99457ef54f1][String formatting]]
+[[id:62875bd8-938f-43f4-98d9-f95e102efd0b][Basic string methods]]
+[[id:479cf6e0-cb1c-420e-80a9-cc33fb85e439][Escape sequences]]
+[[id:bb71dbf5-2ea0-4d1f-a18a-08768df57792][Split and join]]
+[[id:5e6d9c1a-79fe-48cf-9384-f2d3bae8852e][The string module]]
+[[id:7ffbec2e-50bb-460c-a0d9-32362d6851f4][Search in a string]]

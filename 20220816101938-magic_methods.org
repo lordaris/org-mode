@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       470f8714-989b-4050-8db5-660147eeb818
+:END:
+#+title: Magic methods
+

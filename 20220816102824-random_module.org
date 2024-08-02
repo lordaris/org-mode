@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       3ba3b2bc-297c-414c-98da-55265f9ab98a
+:END:
+#+title: Random module
+

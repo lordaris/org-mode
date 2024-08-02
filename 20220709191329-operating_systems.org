@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       f67c5161-ebcd-45b4-bff3-dbac3222a5d4
+:END:
+#+title: Operating systems
+
+[[id:798d40d7-c0fe-48a8-b66f-cccb5e375c83][Multithreading and multiprocessing]]
+[[id:c0ee933a-483f-4840-bb94-648488c9c96c][Unix]]

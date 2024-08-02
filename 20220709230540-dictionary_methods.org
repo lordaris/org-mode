@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bb3b145a-b8e1-4569-b8ee-8b9cc0c1047b
+:END:
+#+title: Dictionary methods
+
+- Alternative dictionary creation
+- Adding items
+- Getting and removing items
+- Cleaning the dictionary
+- Differences in removal methods
+- 

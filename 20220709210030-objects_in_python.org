@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6f374eed-a4de-497e-8bf3-8746b65b83bc
+:END:
+#+title: Objects in Python
+
+[[id:eccb0528-6f64-4f95-a5ca-3110fcb9c4d2][Variables]]
+[[id:140ca55c-3bb8-45b9-bd71-ee05a45cad9e][Identity testing]]
+[[id:6f374eed-a4de-497e-8bf3-8746b65b83bc][Objects in Python]]
+[[id:cbc03a11-280d-49cb-a3c3-82e3df86c720][Copy of an object]]
+[[id:8418fb22-70a1-497a-a87b-4430c067218d][Hashable]]

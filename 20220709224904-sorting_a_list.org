@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e0d9c37e-7c08-43d5-8f8d-57b9561d2047
+:END:
+#+title: Sorting a list
+
+- The sorting
+- The key
+- The reverse
+- 

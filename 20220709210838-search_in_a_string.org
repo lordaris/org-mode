@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       7ffbec2e-50bb-460c-a0d9-32362d6851f4
+:END:
+#+title: Search in a string
+

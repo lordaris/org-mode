@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       efb257e6-c3e6-4791-9625-6a862641b64b
+:END:
+#+title: Function decorators
+

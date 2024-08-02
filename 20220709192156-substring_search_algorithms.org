@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       f0ff45b5-2aab-4038-8071-195812dd087e
+:END:
+#+title: Substring search algorithms
+
+[[id:d53e6b62-ac2f-486a-bc71-f2f55f5c03fc][Searching a substring]]

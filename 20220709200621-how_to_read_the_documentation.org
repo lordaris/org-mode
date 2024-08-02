@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       0085ff2c-40f7-4bfb-bb75-451daa0b6de6
+:END:
+#+title: How to read the documentation
+
+- Main source of documentation
+- Official Python documentation
+- Documentation of third-party libraries
+- Some help()

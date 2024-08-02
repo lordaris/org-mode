@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       6a82a3cb-35ae-45f0-8049-a1d698f378d2
+:END:
+#+title: Pseudocode basics
+

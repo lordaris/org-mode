@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       9fe1a119-fcf1-4341-a92d-101817e2dfe1
+:END:
+#+title: Arguments
+
+[[id:9fe1a119-fcf1-4341-a92d-101817e2dfe1][Arguments]]
+[[id:6d2b0bb0-e82e-4681-902b-09e29e428f04][Default arguments]]
+[[id:ec3a83d0-4491-4b36-9091-8e46e2f9d728][Args]]
+[[id:5f9cf02a-0c03-4d37-9f69-9af7ce0570ad][Kwargs]]
+[[id:ec8f8c1c-1d8d-4ba7-8982-a346e85fc3a2][Python unpacking operations (* and **)]]

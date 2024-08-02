@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       839bf65c-0534-42a5-abd8-8ac1ccb98af0
+:END:
+#+title: Algorithm representation
+
+[[id:709a0bcf-6d91-4d72-ae1f-ea642e466b85][Pseudocode]]
+[[id:6a82a3cb-35ae-45f0-8049-a1d698f378d2][Pseudocode basics]]

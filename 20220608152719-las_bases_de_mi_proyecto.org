@@ -1,0 +1,344 @@
+:PROPERTIES:
+:ID:       0e769a0a-02a6-4384-811e-866720ff947a
+:END:
+#+title: Las bases de mi proyecto
+Las bases de mi proyecto
+
+#+begin_quote
+Jesús Armando Peña Lucero Matrícula: ES202104991 Universidad Abierta y a
+Distancia de México Asignatura: Gestión Ambiental
+
+Docente: Carlos Mauricio Calderilla Jaime 18-Abril-2022
+
+#+end_quote
+
+* Las bases de mi proyecto Introducción
+
+#+begin_quote
+El agua es un compuesto invaluable, principalmente por el hecho de que
+forma parte de los seres vivos y su metabolismo. En el ser humano y
+algunos seres vivos esta ayuda a crear saliva, que se utiliza en el
+proceso digestivo; forma parte de la termorregulación; protege tejidos,
+médula espinal y articulaciones; ayuda en la eliminación de desechos
+tóxicos, al transporte de nutrientes, en la digestión, en el transporte
+de oxigeno en la sangre, en el combate a enfermedades, en la función
+cognitiva, etc. . . [[#_bookmark8][[9]]] A pesar de que alrededor del 70
+% del planeta está formado por agua, solamente alrededor del 3 % de esta
+es potable, y solo una fracción de ese 3 % esta disponible. Por lo
+tanto, los problemas de agua no son por la falta de esta, sino por la
+falta de agua potable. La crisis por el agua surge debido a múltiples
+causas, como la contaminación de la misma, sobre-población y el uso
+excesivo del agua en industrias., principalmente, en agricultura y
+ganadería. (mywaste, 2019) [[#_bookmark6][[7]]] La falta de agua, puede
+provocar gran cantidad de problemas, como afección a la salud y vida de
+todos los organismos; desplazamientos, conflictos sociales, riesgos
+geológicos como los terremotos, entre otros. (mywaste, 2019.,
+International Environmental Technology, 2015) [[#_bookmark6][[7]]]
+[[#_bookmark5][[6]]]
+
+#+end_quote
+
+* Desarrollo
+
+#+begin_quote
+*Uso de Agua en la agricultura en el Estado de Chihuahua*
+
+En el estado de Chihuahua, alrededor del 60 % del agua potable proviene
+de fuentes subterráneas, y el resto de fuentes superficiales. Esto
+plantea algunos problemas importantes, como la contaminación de las
+aguas subterráneas por sales y metales pesados, lo que puede ocasionar
+diversas enfermedades; además estos acuíferos no se rellenan con la
+misma velocidad con que se explotan, por lo que al menos 11 de los 61
+acuíferos principales del Estado tienen algún grado de
+sobre-explotación. Es importante destacar el aprovechamiento de este
+líquido, pues solamente 10 % es de uso público urbano, doméstico rural y
+servicios, mientras que el 89 % se utiliza en la agricultura, y el 1 %
+en la industria.
+
+(Gobierno del Estado de Chihuahua, 2004) [[#_bookmark3][[4]]].
+
+El Estado de Chihuahua ocupa el primer lugar a nivel nacional en
+producción de alfalfa verde, algodón hueso, avena forrajera, avena en
+grano, cebolla, manzana, chile verde y nuez; y segundo lugar en
+producción de durazno y sandía. (Gobierno del Estado de Chihuahua, 2021)
+[[#_bookmark2][[3]]] lo cual, considerando los climas y la poca
+disponibilidad de agua, no tiene mucho sentido, y representa un problema
+importante para la distribución de este líquido vital.
+
+#+end_quote
+
+* Justificación
+
+#+begin_quote
+A pesar de que la crisis del agua se ha abordado en los planes de
+desarrollo estatal, esta problemática no ha disminuido con el tiempo, y
+al contrario, ha empeorado, al grado de propiciar lo que se conoció como
+la “guerra del agua”, en 2020, donde los agricultores se movilizaron e
+incluso pelearon contra la guardia nacional para impedir el desfogue de
+la presa “La boquilla” para pagar una cuota a Estados Unidos
+(García, 2021) [[#_bookmark1][[2].]] Esto demuestra que la falta de agua
+no solo representa un problema a la salud, sino que incluso puede
+propiciar problemas como el desplazamiento de comunidades, especialmente
+comunidades rurales; e incluso conflictos sociales como el de la presa
+“la boquilla”.
+
+Como se mencionó anteriormente, la agricultura utiliza el 89 % del agua
+en el Estado, por lo que es la parte mas importante a estudiar en
+relación con la crisis del agua, conocer cómo es que se utiliza, para
+qué, y qué se puede hacer para reducir su uso excesivo.
+
+#+end_quote
+
+* Objetivo
+
+#+begin_quote
+Calcular el volumen diario de agua utilizada en campos de cultivo de
+hortalizas y nuez, el tipo de suelo, productividad propia del cultivo
+estudiado, las técnicas utilizadas para reducir el consumo de agua (si
+las hay) o las razones por las que no emplean alguno de los sistemas de
+reducción de uso de agua disponibles actualmente.
+
+#+end_quote
+
+* Diagnóstico Ambiental
+
+#+begin_quote
+El Estado de Chihuahua es el Estado mas grande de México.
+
+El 40 % del territorio del Estado es de clima muy seco, el 33 % es seco
+y semi-seco, el
+
+24 % es de clima templado subhúmedo y 3 % de clima cálido subhúmedo.
+(INEGI, s.f.) [[#_bookmark4][[5]]] Las lluvias son muy escasas,
+alrededor de 430 mm anuales (SEMARNAT, 2022) [[#_bookmark7][[8].]]
+
+Predomina el suelo regosol, Xerosol, litosol y feozem, seguido de otros
+que ocupan menos del 3 % del territorio Estatal.
+
+Cuenta con diversos ríos y otros cuerpos de agua, donde destacan el Río
+Bravo, Chuviscar, Florido, Santa Isabel y Conchos; y como cuerpos de
+agua, la presa “la boquilla” y “Chihuahua”, y las lagunas “Bustillos” y
+“Encinillas”.
+
+Se menciona la sobre-explotación de al menos 11 de los 61 acuíferos
+principales [[#_bookmark3][[4],]] aunque los datos de CONAGUA (s.f.)
+[[*Referencias][[1]]] muestran explotación en un numero mayor de
+acuíferos.
+
+#+end_quote
+
+* Plan de trabajo
+
+#+begin_quote
+Visitar aleatoriamente distintas zonas donde se practique la
+agricultura.
+
+Aplicar cuestionarios para averiguar la productividad de los cultivos
+sembrados; conocer sí se emplea algún tipo de tecnificación que permita
+el menor uso de agua, y en caso de que no, saber la razón. Se pretende
+saber sí la causa de la falta de tecnificación (donde aplique) se debe a
+un tema económico, de ignorancia o de falta de interés.
+
+Identificar la fuente de agua (si son potables o tratadas).
+
+Identificar el tipo de suelo para conocer su relación con el uso de agua
+y la productividad.
+
+Identificar el tipo de agricultura empleado, además de los sistemas de
+riego utilizados.
+
+Calcular el volumen de agua utilizado para regar, utilizando fórmulas
+simples como la multiplicación del volumen recogido de una fuente de
+riego en un tiempo determinado por el total de salidas de agua empleadas
+en el área de cultivo. En caso de que no aplique, utilizar métodos
+alternativos.
+
+#+end_quote
+
+* Posibles resultados
+
+#+begin_quote
+Debido al alto volumen de agua empleado en la agricultura, se prevé que
+la mayoría de los productores se basen en sistemas de agricultura
+intensiva, a campo abierto, con sistemas de riego por inundación por
+gravedad, aunque también es posible que otros métodos mas tecnificados
+aún tengan un alto uso de agua.
+
+También es bastante probable que la falta de tecnificación se deba a una
+cuestión económica, por lo que un resultado muy importante es el
+proponer tecnologías de bajo costo, que utilicen recursos altamente
+disponibles en las zonas cercanas a los campos, como pueden ser las
+compost o abonos, que al integrarse con los suelos pueden aumentar la
+retención de la humedad, reduciendo la frecuencia de riego, mejorando a
+su vez la calidad del suelo y de las cosechas. Existen además formas
+rudimentarias de implementar sistemas semihidropónicos, con capacidad de
+reducir considerablemente el consumo de agua y mejorar la calidad de las
+cosechas.
+
+Las estadísticas generadas pueden además servir para estudios
+posteriores que faciliten la toma de decisiones en cuanto a donde
+sembrar, basado en el tipo de suelo, la productividad del mismo, la
+retención de humedad, etcétera.
+
+#+end_quote
+
+* [[file:media/image1.jpeg]]Figura 1
+
+#+begin_quote
+/Riego por Inundación en Chihuahua. Fuente: Tiempo.com.mx (2021)
+[[#_bookmark9][[10]]]/
+
+#+end_quote
+
+* Conclusión
+
+#+begin_quote
+Debido a la gran importancia del agua, y a los problemas que genera la
+falta de esta, considero necesario este tipo de proyectos, donde se
+conozcan las verdaderas causas de esta crisis, y se puedan proponer
+actividades que disminuyan el impacto de dichas causas (que
+evidentemente no pueden eliminarse por completo). La agricultura es una
+actividad muy importante económica y socialmente en el Estado de
+Chihuahua, por lo que no existe la opción de eliminar dicha actividad.
+Por esa razón, la exploración de soluciones basándose en el mayor número
+de factores (económicos, sociales, ambientales, edafológicos, de
+disponibilidad, etc) es de vital importancia. No existe una solución
+universal, especialmente cuando se implican tantas variables, como los
+factores mencionados anteriormente.
+
+#+end_quote
+
+* Referencias
+1. CONAGUA. /AGUAS SUBTERRÁNEAS / Acuíferos/. url:
+   [[https://sigagis.conagua.gob.mx/gas1/sections/Edos/chihuahua/chihuahua.html][https:]]
+
+#+begin_quote
+[[https://sigagis.conagua.gob.mx/gas1/sections/Edos/chihuahua/chihuahua.html][//sigagis.conagua.gob.mx/gas1/sections/Edos/chihuahua/chihuahua.html]]
+
+(visitado 28-04-2022).
+
+#+end_quote
+
+2. [@2] Samuel García. /La ‘guerra del agua' termina en Chihuahua:
+   Entregarán presa La Boquilla/. 23 de oct. de 2021. url:
+   [[https://www.elfinanciero.com.mx/estados/2021/10/22/la-guerra-del-agua-termina-en-chihuahua-entregaran-presa-la-boquilla/][https://www.elfinanciero.com.mx/estados/2021/10/22/la-guerra-del-agua-]]
+   [[https://www.elfinanciero.com.mx/estados/2021/10/22/la-guerra-del-agua-termina-en-chihuahua-entregaran-presa-la-boquilla/][termina-en-chihuahua-entregaran-presa-la-boquilla/]]
+   (visitado 19-04-2022).
+
+3. Gobierno del Estado de Chihuahua. /Es Chihuahua líder nacional en
+   producción agrícola de 10 alimentos | Portal Gubernamental del Estado
+   de Chihuahua/. 29 de jun. de 2021. url:
+
+#+begin_quote
+[[http://www.chihuahua.gob.mx/contenidos/es-chihuahua-lider-nacional-en-produccion-agricola-de-10-alimentos#%3A%7E%3Atext%3DChihuahua%20est%C3%A1%20posicionada%20en%20el%2Cposici%C3%B3n%20en%20durazno%20y%20sand%C3%ADa][http://www.chihuahua.gob.mx/contenidos/es-chihuahua-lider-nacional-en-]]
+
+[[http://www.chihuahua.gob.mx/contenidos/es-chihuahua-lider-nacional-en-produccion-agricola-de-10-alimentos#%3A%7E%3Atext%3DChihuahua%20est%C3%A1%20posicionada%20en%20el%2Cposici%C3%B3n%20en%20durazno%20y%20sand%C3%ADa][produccion-agricola-de-10-alimentos#:%7E:text=Chihuahua%20est%C3%A1%]]
+[[http://www.chihuahua.gob.mx/contenidos/es-chihuahua-lider-nacional-en-produccion-agricola-de-10-alimentos#%3A%7E%3Atext%3DChihuahua%20est%C3%A1%20posicionada%20en%20el%2Cposici%C3%B3n%20en%20durazno%20y%20sand%C3%ADa][20posicionada%20en%20el,posici%C3%B3n%20en%20durazno%20y%20sand%C3%ADa.]]
+(visitado 28-04-2022).
+
+#+end_quote
+
+4. [@4] Gobierno del Estado de Chihuahua. /Plan Estatal de Desarrollo
+   2004-2010 Chihuahua/. 2004. url:
+   [[http://www.chihuahua.gob.mx/atach2/sf/uploads/indtfisc/Plan%20Estatal%20de%20Desarrollo%202004-2010/Contenido.pdf][http://www.chihuahua.gob.mx/atach2/sf/uploads/]]
+   [[http://www.chihuahua.gob.mx/atach2/sf/uploads/indtfisc/Plan%20Estatal%20de%20Desarrollo%202004-2010/Contenido.pdf][indtfisc/Plan%20Estatal%20de%20Desarrollo%202004-2010/Contenido.pdf]].
+
+5. INEGI. /Clima. Chihuahua/. url:
+   [[https://cuentame.inegi.org.mx/monografias/informacion/chih/territorio/clima.aspx?tema=me&e=08&%3A%7E%3Atext=En%20el%2040%25%20de%20su%2Cpartes%20altas%20de%20la%20misma][https://cuentame.inegi.org.mx/monografias/]]
+   [[https://cuentame.inegi.org.mx/monografias/informacion/chih/territorio/clima.aspx?tema=me&e=08&%3A%7E%3Atext=En%20el%2040%25%20de%20su%2Cpartes%20altas%20de%20la%20misma][informacion/chih/territorio/clima.aspx?tema=me&e=08#:%7E:]]
+   [[https://cuentame.inegi.org.mx/monografias/informacion/chih/territorio/clima.aspx?tema=me&e=08&%3A%7E%3Atext=En%20el%2040%25%20de%20su%2Cpartes%20altas%20de%20la%20misma][text=En%20el%2040%25%20de%20su,partes%20altas%20de%20la%20misma.]]
+   (visitado 28-04-2022).
+
+6. International Environmental Technology. /What Happens if We Run Out
+   Of Water?/
+
+#+begin_quote
+Inglés. 27 de mayo de 2015. url:
+
+[[https://www.envirotech-online.com/news/water-wastewater/9/breaking-news/what-happens-if-we-run-out-of-water/34792#%3A%7E%3Atext%3DThe%20physical%20effects%26text%3DEnvironmental%20scientists%20predict%20that%20as%2CEarth%27s%20crust%20is%20becoming%20lighter][https://www.envirotech-online.com/news/water-wastewater/9/breaking-]]
+[[https://www.envirotech-online.com/news/water-wastewater/9/breaking-news/what-happens-if-we-run-out-of-water/34792#%3A%7E%3Atext%3DThe%20physical%20effects%26text%3DEnvironmental%20scientists%20predict%20that%20as%2CEarth%27s%20crust%20is%20becoming%20lighter][news/what-happens-if-we-run-out-of-water/34792#:%7E:]]
+
+[[https://www.envirotech-online.com/news/water-wastewater/9/breaking-news/what-happens-if-we-run-out-of-water/34792#%3A%7E%3Atext%3DThe%20physical%20effects%26text%3DEnvironmental%20scientists%20predict%20that%20as%2CEarth%27s%20crust%20is%20becoming%20lighter][text=The%20physical%20effects&text=Environmental%20scientists%]]
+[[https://www.envirotech-online.com/news/water-wastewater/9/breaking-news/what-happens-if-we-run-out-of-water/34792#%3A%7E%3Atext%3DThe%20physical%20effects%26text%3DEnvironmental%20scientists%20predict%20that%20as%2CEarth%27s%20crust%20is%20becoming%20lighter][20predict%20that%20as,Earth's%20crust%20is%20becoming%20lighter.]]
+(visitado 19-04-2022).
+
+#+end_quote
+
+7. [@7] mywaste. /Exactly what happens if we run out of water?/ Inglés
+   americano. 12 de mar. de 2019. url:
+   [[https://www.mywaste.ie/news/exactly-what-happens-if-we-run-out-of-water/][https://www.mywaste.ie/news/exactly-what-happens-if-]]
+   [[https://www.mywaste.ie/news/exactly-what-happens-if-we-run-out-of-water/][we-run-out-of-water/]]
+   (visitado 19-04-2022).
+
+8. SEMARNAT. /Precipitación media histórica por entidad
+   federativa/. 2022. url: http:
+
+#+begin_quote
+//dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_AGUA01_01&
+IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce&NOMBREENTIDAD=*&NOMBREANIO=*
+(visitado 28-04-2022).
+
+#+end_quote
+
+9. [@9] Natalie Silver. /Why Is Water Important? 16 Reasons to Drink
+   Up/. Inglés. 1 de jul. de 2020. url:
+   [[https://www.healthline.com/health/food-nutrition/why-is-water-important#physical-activity][https://www.healthline.com/health/food-nutrition/why-is-]]
+   [[https://www.healthline.com/health/food-nutrition/why-is-water-important#physical-activity][water-important#physical-activity]]
+   (visitado 19-04-2022).
+
+10. Tiempo, la noticia digital. /Chihuahua entre los “acaparadores” del
+    agua: Cámara de Diputados/. 2021. url:
+    [[http://tiempo.com.mx/noticia/chihuahua_los_acaparadores_del_agua_camara_de_diputados/][http://tiempo.com.mx/noticia/chihuahua_los_]]
+    [[http://tiempo.com.mx/noticia/chihuahua_los_acaparadores_del_agua_camara_de_diputados/][acaparadores_del_agua_camara_de_diputados/]]
+    (visitado 28-04-2022).
+
+*Evidencia de aprendizaje (Retroalimentación)*
+
+Las bases de mi proyecto
+
+Estimado Jesús Armando:
+
+Recibe un cordial saludo de mi parte. Ya he revisado su evidencia de
+aprendizaje, déjame felicitarte por el trabajo realizado y el esfuerzo
+puesto para cumplir con las actividades. También es significativo
+recordar el propósito de la actividad, el cual es revisar y analizar los
+conceptos de diagnóstico ambiental aplicado a una problemática.
+
+Recomiendo mejorar la revisar la ortografía, así como la redacción,
+mejorar la conclusión y el objetivo del diagnóstico, a su vez se debe
+ordenar el plan de trabajo según las actividades e incluir actividades
+de gestión.
+
+En caso de ser necesario consulta las referencias del documento
+propuesto en la planeación didáctica, en las fuentes de consulta de la
+Unidad 1 u otras fuentes de tu preferencia. No olvides anexar las
+referencias para sustentar la búsqueda de información (formato APA).
+
+Una vez que repases los contenidos, no dudes en escribirme si te surge
+alguna duda. ¡Ánimo!
+
+Saludos,
+
+Carlos Mauricio Calderilla Jaime
+
+Docente en Línea
+
+*Criterio de evaluación de la Evidencia de Aprendizaje*
+
+| Dimensiones o Criterios a evaluar                             | Puntos por criterio | Puntos obtenidos | Observaciones                                                         |
+|---------------------------------------------------------------+---------------------+------------------+-----------------------------------------------------------------------|
+| Entrega puntual                                               | *10*                | *10*             |                                                                       |
+| Aplica las reglas ortográficas y los signos de puntuación.    | *05*                | *02*             | Detalles de ortografía                                                |
+| Se añadieron fuentes bibliográficas externas.                 | *05*                | *05*             |                                                                       |
+| Se introduce al tema                                          | *06*                | *06*             |                                                                       |
+| Elige una problemática creativa y de impacto                  | * 08*               | *08*             |                                                                       |
+| Justifica la elección de la problemática                      | *06*                | *06*             |                                                                       |
+| Plantea el objetivo del diagnóstico                           | *07*                | *03*             | Modificarlo                                                           |
+| Incluye todas las secciones de un diagnóstico.                | *08*                | *08*             |                                                                       |
+| Realiza el diagnóstico ambiental                              | *07*                | *07*             |                                                                       |
+| Nivel de impacto de la problemática elegida                   | * 08*               | *08*             |                                                                       |
+| Menciona y desarrolla el plan de trabajo                      | *10*                | *08*             | Falta organizarlo e incluir actividades de gestión.                   |
+| Menciona posibles resultados                                  | *05*                | *05*             |                                                                       |
+| Demuestra entendimiento del tema                              | *10*                | *09*             | Ajustar el documento con los comentarios expuestos en este documento. |
+| Una conclusión clara y estrechamente relacionada con el tema. | *05*                | *04*             | Mejorarla                                                             |
+| /Total de puntos/                                             | /*100*/             | /*89*/           |                                                                       |

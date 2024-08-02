@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       56990ea8-f2a8-44d2-9049-c24508fcc4f6
+:END:
+#+title: Scopes
+

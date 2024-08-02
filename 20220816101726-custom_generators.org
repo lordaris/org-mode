@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       707c8c75-1532-4247-a018-32f9efa51ee6
+:END:
+#+title: Custom generators
+

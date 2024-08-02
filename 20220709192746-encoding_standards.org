@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       53cbb2f0-47c2-4cf2-a880-b54097c21161
+:END:
+#+title: Encoding standards
+

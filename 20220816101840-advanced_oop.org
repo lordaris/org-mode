@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       70285a2b-011a-4d36-8454-5a776da9e960
+:END:
+#+title: Advanced OOP
+
+[[id:099657e1-3cb0-4af7-a1ae-7dd3e38967cb][Decorators in OOP]]
+[[id:c0373f93-5ae3-4d0e-bee6-ea619c4d4585][Abstract classes]]
+[[id:4733772c-70e9-4cf3-85a0-50eec6bca3e3][Multiple inheritance]]
+[[id:b441a557-a26c-45c8-9de6-a93f556728f7][Inheritance in Python]]
+[[id:0f915af6-f0db-4d3d-96fa-18bc8bbd874f][Method overriding]]

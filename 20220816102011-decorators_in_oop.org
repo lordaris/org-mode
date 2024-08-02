@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       099657e1-3cb0-4af7-a1ae-7dd3e38967cb
+:END:
+#+title: Decorators in OOP
+

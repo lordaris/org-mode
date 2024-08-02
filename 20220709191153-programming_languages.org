@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       947782b9-ba2d-4a35-9c2d-0c8f3b811af7
+:END:
+#+title: Programming languages
+
+[[id:92c71f7f-454b-485b-88ed-6497e9afbeef][Python]]

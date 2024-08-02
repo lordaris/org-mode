@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       d0633c59-0140-4f78-91db-f808dafa9ed6
+:END:
+#+title: Functions
+
+[[id:17322502-db52-4388-aca6-e2734d94c290][Main body]]
+[[id:9fe1a119-fcf1-4341-a92d-101817e2dfe1][Arguments]]
+[[id:ad5cb720-90e4-42d7-abc5-2848969a6759][Advanced usage]]

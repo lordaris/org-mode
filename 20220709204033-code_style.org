@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       2bb23aed-3e33-4444-a766-54914385157f
+:END:
+#+title: Code style
+
+[[id:b2c5734e-2010-4c8e-a7b0-e60c67a8f460][PEP8]]
+[[id:d3511118-3ee9-4282-b55b-067c4c003822][Comments]]
+[[id:6b63f96f-a2f4-4049-be34-9d6348c5d8c9][Naming variables]]
+[[id:800d10e7-5442-4fb5-8255-a9362e88ff84][Docstrings]]
+[[id:c4248071-b5b9-4019-ac1c-ed6f4fea8b56][Linters and helpers]]
+[[id:602999be-e8aa-4af5-9663-26371c82ebca][Pydoc]]
+[[id:5d6455d4-4c42-430f-951f-805bce7ef33c][The ppring module]]
+[[id:fe3f86f6-2322-43ae-a85b-f1f1463c3710][Traceback module]]
+[[id:0ee1cb1a-c458-488c-85bc-9e150aba5a5d][Avoiding bad comments]]

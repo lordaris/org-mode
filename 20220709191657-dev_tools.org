@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       b65bc590-3ea3-450b-92ba-5f631664bc00
+:END:
+#+title: Dev tools
+
+[[id:91ae52c4-22f3-4e1d-b645-5c29a9a9792b][IDE]]
+[[id:beaea529-b363-4f9c-811f-aa169c862dcc][Command line]]

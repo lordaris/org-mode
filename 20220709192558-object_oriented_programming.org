@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       a6d090cd-0fbb-4b28-8baa-059080554237
+:END:
+#+title: Object-oriented programming
+
+[[id:21166f1e-46bb-45e0-92f8-4b9cc34b45b3][Classes]]
+[[id:d31f4623-0d59-481e-888a-2ab5d91f81ad][Methods]]
+[[id:70285a2b-011a-4d36-8454-5a776da9e960][Advanced OOP]]

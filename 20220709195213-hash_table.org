@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       d8e62a8c-aaf9-436a-b422-e6ec4d553cf2
+:END:
+#+title: Hash table
+
+- Hash tables
+- Load factor
+- Why are hash tables so fast?

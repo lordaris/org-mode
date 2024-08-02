@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a8945725-d12d-4ce3-9466-871cced56ea1
+:END:
+#+title: a
+
+#+LATEX_HEADER: \affiliation{Universidad Abierta y a Distancia de México}
+#+LATEX_HEADER: \course{Asignatura: }
+#+LATEX_HEADER: \professor{Docente:  }
+#+LATEX_HEADER: \duedate{ -  - }
+#+LATEX_CLASS: apa7
+#+LANGUAGE: es
+#+LATEX_CLASS_OPTIONS: [a4paper, 12, stu, floatsintext]
+#+LATEX_HEADER: \usepackage[backend=biber, style=apa]{biblatex}
+#+LATEX_HEADER: \addbibresource{referencias.bib}
+#+LATEX_HEADER: \shorttitle{}
+
+
+
+
+[[printbibliography:]]

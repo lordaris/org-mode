@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       e1086c69-1b29-4996-a842-b35a71cc767f
+:END:
+#+title: Functional testing
+
+- What is functional testing
+- Test pyramid
+- Unit testing
+- Integration testing
+- End-to-end testing
+- UI testing
+- Smoke and Regression
+  

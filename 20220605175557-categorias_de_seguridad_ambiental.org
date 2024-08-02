@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       3e66f0d4-dbc6-4e65-addc-7765a4892494
+:END:
+#+title:Categorías de seguridad ambiental
+- Programas de seguridad e higiene en el trabajo
+- Control ambiental
+- Seguridad química

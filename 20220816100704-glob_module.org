@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f78d7232-bb05-4cba-a4cb-403d8cd0982d
+:END:
+#+title: Glob module
+

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       c45bf2dd-3378-4414-a6ac-9ba518c21358
+:END:
+#+title: Functional decomposition
+

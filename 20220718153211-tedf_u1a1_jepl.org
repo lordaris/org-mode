@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       97279f80-8af1-4900-9a77-45c2ab226f31
+:END:
+#+title: Clasificación de las ecuaciones diferenciales
+#+AUTHOR: Jesús Armando Peña Lucero
+#+LATEX_HEADER: \affiliation{Universidad Abierta y a Distancia de México}
+#+LATEX_HEADER: \course{Asignatura: Ecuaciones diferenciales }
+#+LATEX_HEADER: \professor{Docente: Tizoc Fernando Huerta García }
+#+LATEX_HEADER: \usepackage[spanish]{babel}
+#+LATEX_HEADER: \duedate{18-Julio-2022}
+#+LATEX_CLASS: apa7
+#+LANGUAGE: es
+#+LATEX_CLASS_OPTIONS: [a4paper, 12, stu, floatsintext]
+#+LATEX_HEADER: \usepackage[backend=biber, style=apa]{biblatex}
+#+LATEX_HEADER: \addbibresource{referencias.bib}
+#+LATEX_HEADER: \shorttitle{}
+
+#+LATEX_HEADER: \usepackage{array}
+#+LATEX_HEADER: \usepackage{longtable}
+#+LATEX_HEADER: \usepackage{color}
+
+* Desarrollo 
+\begin{longtable}{|>{\centering\hspace{0pt}}m{0.035\linewidth}|>{\centering\hspace{0pt}}m{0.25\linewidth}|>{\centering\hspace{0pt}}m{0.08\linewidth}|>{\centering\hspace{0pt}}m{0.08\linewidth}|>{\centering\hspace{0pt}}m{0.08\linewidth}|>{\centering\hspace{0pt}}m{0.07\linewidth}|>{\centering\hspace{0pt}}m{0.1\linewidth}|>{\centering\arraybackslash\hspace{0pt}}m{0.1\linewidth}|}
+\caption{Clasificación de ecuaciones diferenciales}\\ 
+\hline
+No & Ecuación Diferencial & Tipo & Orden & Grado & Lineal & Var. Independiente & Var. Dependiente \endfirsthead 
+\hline
+0 & $x''(t)+3'(t)+9=0$ & EDO & 2 & 1 & Sí & t & x \\ 
+\hline
+1 & $\frac{d^2r}{dt^2}=3\frac{dr}{dt}+sin t$ & EDO & 2 & 1 & Sí & t & r \\ 
+\hline
+2 & $t^2R'''-4tR''+R'+3R=e^t$ & EDO & 3 & 1 & Sí & t & R \\ 
+\hline
+3 & $\frac{\delta N}{\delta t}= \frac{\delta^2N}{\delta r^2}+\frac{1}{r}\frac{\delta N}{\delta r} + k N$~donde k es una constante & EDP & 1 & 1 & Sí & t, r & N \\ 
+\hline
+4 & $y\left [ 1+\left (\frac{dy}{dx} \right )^2 \right ]=C$\textcolor[rgb]{0.365,0.408,0.475}{}\par{}\textcolor[rgb]{0.365,0.408,0.475}{} & EDO & 1 & 1 & No & x & y \\ 
+\hline
+5 & $\frac{\delta ^2 u}{\delta t ^2}+ \frac{\delta^2 u}{\delta y^2}=0$ & EDP & 1 & 1 & No & t, y & u \\
+\hline
+\end{longtable}
+
+
+* Conclusión
+La clasificación de las ecuaciones diferenciales, como pudo observarse, responde a distintos criterios, como su *tipo* (ordinario o parcial), donde se considera si hay una o mas variables independientes, siendo el primer caso referente al tipo ordinario, y el segundo al tipo parcial; su *orden*, que depende de la derivada de mayor orden; el *grado*, que depende del grado de la derivada de mayor orden, y que en caso de ser este diferente de uno, o si la derivada se multiplica por la variable dependiente o un valor que no sea una constante o la variable independiente, se tratará de una ecuación *no lineal*, o *lineal* en caso de que no incluya en sus características lo mencionado anteriormente. [[parencite:&carmonajoverEcuacionesDiferenciales2011]]
+
+[[printbibliography:]]

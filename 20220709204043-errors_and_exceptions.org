@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       bfaf786a-de7a-4518-8f1e-41ee4677b41d
+:END:
+#+title: Errors and exceptions
+
+[[id:d6678551-febc-4579-bd26-270721f4a257][Errors]]
+[[id:3087fbe8-eda6-440f-a59b-05cf3d41fb60][Exceptions]]
+[[id:f08018ae-88af-4299-bce5-dc4e8a166b23][Built-in exceptions]]
+[[id:fec3e1b1-e27b-4ade-b1be-94c9a2c932ea][Exception handling]]
+[[id:656c31dc-45ec-42b5-8d6e-c7721702c616][User-defined exceptions]]

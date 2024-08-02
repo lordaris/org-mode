@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       f28048d9-ad45-42b5-ac1a-9567bf2d5cce
+:END:
+#+title: Sep and end arguments of print
+
+- The separator
+- The end
+- Unpacking objects

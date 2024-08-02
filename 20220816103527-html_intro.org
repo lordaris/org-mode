@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       ffab4481-2c6f-4664-a5c4-7c11b68ed9b0
+:END:
+#+title: HTML Intro
+
+[[id:ceb477c6-94b8-451b-8d52-d8e42e6f45c1][HTML page structure]]
+[[id:084e4d70-4386-491d-9a92-3c72046a8c6c][Tags and attributes]]
+[[id:60c1f1a5-c492-43dc-90e6-59e3f0e3c346][HTML basics]]

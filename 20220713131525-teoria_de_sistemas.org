@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       19bb88dd-2ed8-47fe-b4d9-90997116617e
+:END:
+#+title: teoría de sistemas
+
+Para analizar y explicar diferentes temas científicos y filosóficos, los elementos de estos sistemas se deben estudiar de forma global. 

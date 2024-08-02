@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       00187929-c566-4a78-8711-f7149d586c8d
+:END:
+#+title: Standards and formats
+
+[[id:53cbb2f0-47c2-4cf2-a880-b54097c21161][Encoding standards]]
+[[id:6059e8a5-833d-40b5-96e9-863e74d069a1][Data formats]]

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       9d0794cf-2545-46d0-b25b-4de6ccf11f66
+:END:
+#+title: Lists
+
+[[id:5c1f1c1d-0a33-4df6-9c64-4ad5f8119810][List]]
+[[id:9ea57d93-bb32-4501-bbbe-4dc17bbbea21][Indexes]]
+[[id:383430a9-7306-4dc8-87d0-4ac42a9b0cc0][List comprehension]]
+[[id:a66138fe-bcd6-48a3-8f34-34e51594f4d5][Operations with list]]
+[[id:6ee7fd65-8182-41b5-8e88-ced6d144deaa][Nested lists]]
+[[id:b4336776-2b87-4218-a6e8-6baf7575e95e][Slicing]]
+[[id:e0d9c37e-7c08-43d5-8f8d-57b9561d2047][Sorting a list]]

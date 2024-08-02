@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       91ae52c4-22f3-4e1d-b645-5c29a9a9792b
+:END:
+#+title: IDE
+
+[[id:93d40c51-f4c9-4645-9551-5b2bb1a6b9bf][Pycharm]]

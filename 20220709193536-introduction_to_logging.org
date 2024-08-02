@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       b35c4ab8-0dd9-4def-8406-74004415d230
+:END:
+#+title: Introduction to logging
+
+- Introduction
+- Log
+- When, What, and How
+- Log levels
+- Log format

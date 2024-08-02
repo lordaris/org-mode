@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       8474c5e7-3cf2-4835-9774-ffadc00cc7c5
+:END:
+#+title: Computer science
+
+[[id:4913f9b8-8714-476a-bdfe-84859530b00a][Fundamentals]]
+[[id:947782b9-ba2d-4a35-9c2d-0c8f3b811af7][Programming languages]]
+[[id:e60fa721-baa7-46dd-be59-bd6608d12c88][Frontend]]
+[[id:98d370d0-d8e7-484c-b63d-7f8a4480ce1b][Data science]]

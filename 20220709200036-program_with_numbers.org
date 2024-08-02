@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3425f054-1b24-4330-87fa-67d8e3458381
+:END:
+#+title: Program with numbers
+
+- Reading numbers from user input
+- Advanced forms of assignment
+- Counter variable

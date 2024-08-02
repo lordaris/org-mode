@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       cbc03a11-280d-49cb-a3c3-82e3df86c720
+:END:
+#+title: Copy of an object
+

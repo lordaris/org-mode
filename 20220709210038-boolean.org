@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       ddba8ea1-ad6c-4e8f-bbd1-e0458b08782f
+:END:
+#+title: Boolean
+
+[[id:fe9e2244-f6c7-4607-8cbb-bf7ad11c8d46][Boolean logic]]
+[[id:4c4c46b5-1f84-4862-84b3-8871c7605e74][Conversion to boolean]]

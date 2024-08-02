@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       c9d40398-45e0-40d6-b436-db694bba8fec
+:END:
+#+title: Intro
+- What is python
+- Python in data science
+- A short history of Python
+- First program example

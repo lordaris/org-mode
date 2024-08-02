@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       f92fe7cd-de95-4496-bdec-a83f3c685343
+:END:
+#+title: Binary numbers
+
+Decimal vs binary
+Binary counting
+Zero padding
+Why and where

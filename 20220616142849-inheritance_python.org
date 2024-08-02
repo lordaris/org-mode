@@ -1,0 +1,99 @@
+:PROPERTIES:
+:ID:       3fdc5c67-01f9-4779-8452-b6b49e069e81
+:END:
+#+title: Inheritance Python
+
+Classes can inherit methods or properties from other classes.
+It's purpose is to reuse code.
+There are child classes (subclasses or derived classes) and parent classes (base or superclasses)
+
+#+begin_src python :session :results value
+# inheritance syntax
+class ChildClass(ParentClass):
+#methods and attributes
+      
+
+#+end_src
+
+by default, all classes have the class object as their parent. 
+
+#+begin_src python :session :results value
+class SomeClass(object):
+# It's the same. 
+class SomeClass: 
+#+end_src
+
+
+Subclasses of object inherit its methods and attributes. So, all standard methods like __init__ or __repr__ are inherited from the class object. If we don't redefine those methods for our custom classes, we end up using their implementations defined for the object class.
+
+Single inheritance
+Unlike some other programming languages, Python supports two forms of inheritance: single and multiple. Single inheritance is when a child class inherits from one parent class. Multiple inheritance is when a child class inherits from multiple parent classes. In this topic, we'll cover only single inheritance. Don't worry, though, you'll have a chance to learn about multiple inheritance in the next topics!
+
+Let's consider an example of single inheritance.
+
+# parent class
+class Animal:
+    def __init__(self, name):
+        self.name = name
+
+# child class
+class Dog(Animal):
+    pass
+Here we have a base class Animal with the __init__ method and a subclass Dog that inherits from the base class. The keyword pass allows us not to write anything in the definition of the child class.
+
+Now that we've defined classes, we can create objects:
+
+cow = Animal("Bessie")  # instance of Animal
+corgi = Dog("Baxter")   # instance of Dog
+We haven't defined the __init__ for the class Dog but since it's a child of Animal, it inherited its __init__. So if we tried to declare an instance of the class Dog in a different way, we would get an error:
+
+labrador = Dog()  # TypeError
+type() vs isinstance()
+There are two main ways to check the type of an object: type() or isinstance() functions.
+
+The type() function takes one argument, an object, and returns its type. The isinstance() function takes two arguments: an object and a class. It checks if the given object is an instance of the given class and returns a boolean value.
+
+For built-in types, they work the same, but when inheritance is involved, their results are different. Let's check it out!
+
+First, let's look at the type() function:
+
+print(type(cow) == Animal)  # True
+print(type(corgi) == Animal)  # False
+
+print(type(cow) == Dog)     # False
+print(type(corgi) == Dog)     # True
+As you can see, this allows us to check for the immediate type of the object. Now, isinstance() works differently:
+
+print(isinstance(cow, Animal))    # True
+print(isinstance(corgi, Animal))  # True
+
+print(isinstance(cow, Dog))    # False
+print(isinstance(corgi, Dog))  # True
+With this, we get True not only with the immediate type but also with the parent type and it would work even with the parent of the parent type! This distinction is important to remember for future projects!
+
+issubclass()
+While isinstance() checks the type of an instance of a class, another built-in function asks whether a given class is a subclass of another class:
+
+print(issubclass(Dog, Animal))  # True
+print(issubclass(Animal, Dog))  # False
+
+print(issubclass(Dog, Dog))     # True
+print(issubclass(corgi, Dog))   # TypeError
+As shown, the issubclass() function returns True if the first class inherits from the second class, and False otherwise. Each class is considered a subclass of itself. Notice that the function can't work with instances of a class, both its arguments should be classes. However, you can use a tuple of classes to check if your class inherits from several parents.
+
+print(issubclass(Dog, object))            # True
+print(issubclass(Dog, (Animal, object)))  # True
+The case with several classes might be somewhat misleading, though. The thing is that the function checks whether any element of the tuple is a parent. Say, we have defined a new class Robot:
+
+class Robot:
+    pass
+Then issubclass() will return the following:
+
+print(issubclass(Dog, Robot))            # False
+print(issubclass(Dog, (Robot, Animal)))  # True
+Even though Dog has nothing to do with Robot, in the last case, we got True. So keep this detail in mind when calling this function!
+
+Summary
+As one of the pillars of OOP, inheritance is very important! In Python, declaring parent classes is quite simple and straightforward. In this topic, we've covered the basics of the inheritance in Python: how it's done, what is class object, how to define a single parent for the class, and then check the type of an object or a class without any mistakes.
+
+Inheritance is what really makes classes so powerful and useful. It also allows programmers to stick to the DRY (Don't Repeat Yourself) principle and pushes them to think about the effectiveness and clarity of their classes.

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       0d854233-c494-489c-aee8-54aedab718e0
+:END:
+#+title: Working with data
+
+[[id:db8a2c4b-aeaf-44d4-a849-1255dd4efa5a][Data types and operations]]
+[[id:bcc639dc-9ed6-4fbb-a8c6-d54608eb4bbd][Collections]]
+[[id:34b28c96-0c77-4a10-9ace-f9f3f850020f][Working with files]]

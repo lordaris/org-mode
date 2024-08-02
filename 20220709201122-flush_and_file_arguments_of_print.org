@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       fe69e549-e0ad-4039-914f-520cfa94eb59
+:END:
+#+title: Flush and file arguments of print
+
+- The file
+- The flush
+- print vs write

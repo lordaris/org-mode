@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       876553cf-c449-4e94-9793-3da4ae08852d
+:END:
+#+title: Programming techniques
+
+
+[[id:5f90c827-4e05-4e2f-ad19-6e896f4a0781][Operations with sequences]]
+[[id:3ab6ccf4-ab3c-4254-a459-0de519cf52ec][Regular expressions]]

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b350c696-4264-4d2a-be0d-b5f7337feb22
+:END:
+#+title: Class instances
+

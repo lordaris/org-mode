@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       6d2b0bb0-e82e-4681-902b-09e29e428f04
+:END:
+#+title: Default arguments
+

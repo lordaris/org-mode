@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       d31f4623-0d59-481e-888a-2ab5d91f81ad
+:END:
+#+title: Methods
+
+[[id:d31f4623-0d59-481e-888a-2ab5d91f81ad][Methods]]
+[[id:470f8714-989b-4050-8db5-660147eeb818][Magic methods]]
+[[id:aa9527b3-b749-4b1e-95d0-6fa7c41166ac][Methods and attributes]]
+[[id:3790a74a-a2d3-421b-a219-3103ae1b9104][Math magic methods]]

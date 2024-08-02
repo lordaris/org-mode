@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       6bd734f9-f2c6-4012-a11e-f99457ef54f1
+:END:
+#+title: String formatting
+

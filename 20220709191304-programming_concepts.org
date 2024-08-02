@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       b610fc21-8559-4c9e-a771-2ff76e63894b
+:END:
+#+title: Programming concepts
+
+[[id:2de34d46-4c56-4f41-8736-35687606ce27][Intro to programming]]
+[[id:a6d090cd-0fbb-4b28-8baa-059080554237][Object-oriented programming]]
+[[id:35ac3d95-0c40-4a4f-be98-0b8284854645][Fields of programming]]

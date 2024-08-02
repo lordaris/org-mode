@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       190ce8fc-8480-4b06-a391-4602249c7f92
+:END:
+#+title: Create module
+
+
+- Module design
+- Module importing
+- Common mistakes
+- __main__ pattern

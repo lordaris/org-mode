@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       6b63f96f-a2f4-4049-be34-9d6348c5d8c9
+:END:
+#+title: Naming variables
+
